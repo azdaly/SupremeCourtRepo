@@ -1,0 +1,8 @@
+89-7 No. 242 (for example) - Tally and roll call vote number	
+C - Confirmed and served (119) 25
+V - Voice Vote
+D - Declined (7)
+ N - No Action (10)
+ P - Postponed (3)
+ R - Rejected (12)
+ W - Withdrawn (12)
