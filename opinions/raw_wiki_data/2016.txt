@@ -1,0 +1,1197 @@
+==2016 term opinions==
+{{SCOTUS-termlist-start|Roberts|Kennedy|Thomas|Ginsburg|Breyer|Alito|Sotomayor|Kagan|Gorsuch}}
+{{SCOTUS-termlist-entry
+  |#=1
+  |case=Bosse v. Oklahoma
+  |volume=580
+  |page=
+  |argue-date=
+  |decision-date=October 11, 2016
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-opinion2=concurrence |justice3-sortcode=2J1<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-opinion2=joinconcurrence |justice6-sortcode=J1J2<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=2
+  |case=Bravo-Fernandez v. United States
+  |volume=580
+  |page=
+  |argue-date=October 4, 2016
+  |decision-date=November 29, 2016
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-opinion2=concurrence |justice3-sortcode=2J1<!--thomas-->
+  |justice4-opinion1=majority |justice4-sortcode=1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=3
+  |case=State Farm Fire & Casualty Co. v. United States ex rel. Rigsby
+  |volume=580
+  |page=
+  |argue-date=November 1, 2016
+  |decision-date=December 6, 2016
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=majority |justice2-sortcode=1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=4
+  |case=Salman v. United States
+  |volume=580
+  |page=
+  |argue-date=October 5, 2016
+  |decision-date=December 6, 2016
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=majority |justice6-sortcode=1<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=5
+  |case=Samsung Electronics Co. v. Apple Inc.
+  |volume=580
+  |page=
+  |argue-date=October 11, 2016
+  |decision-date=December 6, 2016
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=majority |justice7-sortcode=1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=6
+  |case=Shaw v. United States
+  |volume=580
+  |page=
+  |argue-date=October 4, 2016
+  |decision-date=December 12, 2016
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=majority |justice5-sortcode=1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=7
+  |case=White v. Pauly
+  |volume=580
+  |page=
+  |argue-date=
+  |decision-date=January 9, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-opinion2=concurrence |justice4-sortcode=2J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=8
+  |case=Lightfoot v. Cendant Mortgage Corp.
+  |volume=580
+  |page=
+  |argue-date=November 8, 2016
+  |decision-date=January 18, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=majority |justice7-sortcode=1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=9
+  |case=Buck v. Davis
+  |volume=580
+  |page=
+  |argue-date=October 5, 2016
+  |decision-date=February 22, 2017
+  |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=dissent |justice3-sortcode=4<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joindissent |justice6-sortcode=J4<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=10
+  |case=Life Technologies Corp. v. Promega Corp.
+  |volume=580
+  |page=
+  |argue-date=December 6, 2016
+  |decision-date=February 22, 2017
+  |justice1-opinion1=didnotparticipate |justice1-sortcode=X<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=partjoinmajority |justice3-opinion2=joinconcurrence |justice3-sortcode=J1XJ2<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=partjoinmajority |justice6-opinion2=concurrence |justice6-sortcode=2J1X<!--alito-->
+  |justice7-opinion1=majority |justice7-sortcode=1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=11
+  |case=Fry v. Napoleon Community Schools
+  |volume=580
+  |page=
+  |argue-date=October 31, 2016
+  |decision-date=February 22, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinconcurrence |justice3-sortcode=J2<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=concurrence |justice6-sortcode=2<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=majority |justice8-sortcode=1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=12
+  |case=Bethune-Hill v. Virginia State Bd. of Elections
+  |volume=580
+  |page=
+  |argue-date=December 5, 2016
+  |decision-date=March 1, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=majority |justice2-sortcode=1<!--kennedy-->
+  |justice3-opinion1=concurrencedissent |justice3-sortcode=3<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=concurrence |justice6-sortcode=2<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=13
+  |case=Pena-Rodriguez v. Colorado
+  |volume=580
+  |page=
+  |argue-date=October 11, 2016
+  |decision-date=March 6, 2017
+  |justice1-opinion1=joindissent2 |justice1-sortcode=J4<!--roberts-->
+  |justice2-opinion1=majority |justice2-sortcode=1<!--kennedy-->
+  |justice3-opinion1=dissent1 |justice3-opinion2=joindissent2 |justice3-sortcode=4J4<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=dissent2 |justice6-sortcode=4<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=14
+  |case=Beckles v. United States
+  |volume=580
+  |page=
+  |argue-date=November 28, 2016
+  |decision-date=March 6, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-opinion2=concurrence1 |justice2-sortcode=2J1<!--kennedy-->
+  |justice3-opinion1=majority |justice3-sortcode=1<!--thomas-->
+  |justice4-opinion1=concurrence2 |justice4-sortcode=2<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=concurrence3 |justice7-sortcode=2<!--sotomayor-->
+  |justice8-opinion1=didnotparticipate |justice8-sortcode=X<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=15
+  |case=Rippo v. Baker
+  |volume=580
+  |page=
+  |argue-date=
+  |decision-date=March 6, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=16
+  |case=NLRB v. SW General, Inc.
+  |volume=580
+  |page=
+  |argue-date=November 7, 2016
+  |decision-date=March 21, 2017
+  |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-opinion2=concurrence |justice3-sortcode=2J1<!--thomas-->
+  |justice4-opinion1=joindissent |justice4-sortcode=J4<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=dissent |justice7-sortcode=4<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=17
+  |case=SCA Hygiene Products Aktiebolag v. First Quality Baby Products, LLC
+  |volume=580
+  |page=
+  |argue-date=November 1, 2016
+  |decision-date=March 21, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=dissent |justice5-sortcode=4<!--breyer-->
+  |justice6-opinion1=majority |justice6-sortcode=1<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=18
+  |case=Manuel v. Joliet
+  |volume=580
+  |page=
+  |argue-date=October 5, 2016
+  |decision-date=March 21, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=dissent1 |justice3-opinion2=joindissent2 |justice3-sortcode=4J4<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=dissent2 |justice6-sortcode=4<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=majority |justice8-sortcode=1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=19
+  |case=Endrew F. v. Douglas County School Dist. RE–1
+  |volume=580
+  |page=
+  |argue-date=January 11, 2017
+  |decision-date=March 22, 2017
+  |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=20
+  |case=Star Athletica, L. L. C. v. Varsity Brands, Inc.
+  |volume=580
+  |page=
+  |argue-date=October 31, 2016
+  |decision-date=March 22, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joindissent |justice2-sortcode=J4<!--kennedy-->
+  |justice3-opinion1=majority |justice3-sortcode=1<!--thomas-->
+  |justice4-opinion1=concurrence |justice4-sortcode=2<!--ginsburg-->
+  |justice5-opinion1=dissent |justice5-sortcode=4<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=21
+  |case=Czyzewski v. Jevic Holding Corp. 
+  |volume=580
+  |page=
+  |argue-date=December 7, 2016
+  |decision-date=March 22, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=dissent |justice3-sortcode=4<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=majority |justice5-sortcode=1<!--breyer-->
+  |justice6-opinion1=joindissent |justice6-sortcode=J4<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=22
+  |case=Moore v. Texas
+  |volume=581
+  |page=
+  |argue-date=November 29, 2016
+  |decision-date=March 28, 2017
+  |justice1-opinion1=dissent |justice1-sortcode=4<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joindissent |justice3-sortcode=J4<!--thomas-->
+  |justice4-opinion1=majority |justice4-sortcode=1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joindissent |justice6-sortcode=J4<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=23
+  |case=Expressions Hair Design v. Schneiderman
+  |volume=581
+  |page=
+  |argue-date=January 10, 2017
+  |decision-date=March 29, 2017
+  |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=concurrence1 |justice5-sortcode=2<!--breyer-->
+  |justice6-opinion1=joinconcurrence2 |justice6-sortcode=J2<!--alito-->
+  |justice7-opinion1=concurrence2 |justice7-sortcode=2<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=24
+  |case-article=Dean v. United States (2017)
+  |case-display=Dean v. United States
+  |volume=581
+  |page=
+  |argue-date=February 28, 2017
+  |decision-date=April 3, 2017
+  |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=25
+  |case=McLane Co. v. EEOC
+  |volume=581
+  |page=
+  |argue-date=February 21, 2017
+  |decision-date=April 3, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+  |justice4-opinion1=concurrencedissent |justice4-sortcode=3<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=majority |justice7-sortcode=1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch not yet appointed-->
+}}
+{{SCOTUS-termlist-entry
+  |#=26
+  |case=Coventry Health Care of Mo., Inc. v. Nevils
+  |volume=581
+  |page=
+  |argue-date=March 1, 2017
+  |decision-date=April 18, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-opinion2=concurrence |justice3-sortcode=2J1<!--thomas-->
+  |justice4-opinion1=majority |justice4-sortcode=1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+  |#=27
+  |case=Goodyear Tire & Rubber Co. v. Haeger
+  |volume=581
+  |page=
+  |argue-date=January 10, 2017
+  |decision-date=April 18, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=majority |justice8-sortcode=1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+  |#=28
+  |case=Manrique v. United States
+  |volume=581
+  |page=
+  |argue-date=October 11, 2016
+  |decision-date=April 19, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=majority |justice3-sortcode=1<!--thomas-->
+  |justice4-opinion1=dissent |justice4-sortcode=4<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=joindissent |justice7-sortcode=J4<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+  |#=29
+  |case=Nelson v. Colorado
+  |volume=581
+  |page=
+  |argue-date=January 9, 2017
+  |decision-date=April 19, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=dissent |justice3-sortcode=4<!--thomas-->
+  |justice4-opinion1=majority |justice4-sortcode=1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=concurrence |justice6-sortcode=2<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+  |#=30
+  |case=Lewis v. Clarke
+  |volume=581
+  |page=
+  |argue-date=January 9, 2017
+  |decision-date=April 25, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=concurrence1 |justice3-sortcode=2<!--thomas-->
+  |justice4-opinion1=concurrence2 |justice4-sortcode=2<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=majority |justice7-sortcode=1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+  |#=31
+  |case-article=Bolivarian Republic of Venezuela v. Helmerich & Payne Int'l Drilling Co.
+  |case-display=Venezuela v. Helmerich & Payne Int'l Drilling Co.
+  |volume=581
+  |page=
+  |argue-date=November 2, 2016
+  |decision-date=May 1, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=majority |justice5-sortcode=1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+  |#=32
+  |case=Bank of America Corp. v. Miami
+  |volume=581
+  |page=
+  |argue-date=November 8, 2016
+  |decision-date=May 1, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinconcurrencedissent |justice2-sortcode=J3<!--kennedy-->
+  |justice3-opinion1=concurrencedissent |justice3-sortcode=3<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=majority |justice5-sortcode=1<!--breyer-->
+  |justice6-opinion1=joinconcurrencedissent |justice6-sortcode=J3<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+  |#=33
+  |case=Howell v. Howell
+  |volume=581
+  |page=
+  |argue-date=March 20, 2017
+  |decision-date=May 15, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=concurrence |justice3-sortcode=2<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=majority |justice5-sortcode=1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+  |#=34
+  |case=Midland Funding, LLC v. Johnson
+  |volume=581
+  |page=
+  |argue-date=January 17, 2017
+  |decision-date=May 15, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+  |justice4-opinion1=joindissent |justice4-sortcode=J4<!--ginsburg-->
+  |justice5-opinion1=majority |justice5-sortcode=1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=dissent |justice7-sortcode=4<!--sotomayor-->
+  |justice8-opinion1=joindissent |justice8-sortcode=J4<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+  |#=35
+  |case=Kindred Nursing Centers, L. P. v. Clark
+  |volume=581
+  |page=
+  |argue-date=February 22, 2017
+  |decision-date=May 15, 2017
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+  |justice3-opinion1=dissent |justice3-sortcode=4<!--thomas-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+  |justice8-opinion1=majority |justice8-sortcode=1<!--kagan-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=36
+ |case=TC Heartland LLC v. Kraft Foods Group Brands LLC
+ |volume=581
+ |page=
+ |argue-date=March 27, 2017
+ |decision-date=May 22, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+ |justice3-opinion1=majority |justice3-sortcode=1<!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=37
+ |case=Water Splash, Inc. v. Menon
+ |volume=581
+ |page=
+ |argue-date= March 22, 2017
+ |decision-date=May 22, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=38
+ |case=Cooper v. Harris
+ |volume=581
+ |page=
+ |argue-date=December 5, 2016
+ |decision-date=May 22, 2017
+ |justice1-opinion1=joinconcurrencedissent |justice1-sortcode=J3<!--roberts-->
+ |justice2-opinion1=joinconcurrencedissent |justice2-sortcode=J3<!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-opinion2=concurrence |justice3-sortcode=2J1<!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+ |justice6-opinion1=concurrencedissent |justice6-sortcode=3<!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=39
+ |case=Impression Products, Inc. v. Lexmark Int'l, Inc.
+ |volume=581
+ |page=
+ |argue-date=March 21, 2017
+ |decision-date=May 30, 2017
+ |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+ |justice4-opinion1=concurrencedissent |justice4-sortcode=3<!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=40
+ |case=Esquivel-Quintana v. Sessions
+ |volume=581
+ |page=
+ |argue-date=February 27, 2017
+ |decision-date=May 30, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+ |justice3-opinion1=majority |justice3-sortcode=1<!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=41
+ |case=BNSF Railway Co. v. Tyrrell
+ |volume=581
+ |page=
+ |argue-date=April 25, 2017
+ |decision-date=May 30, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+ |justice4-opinion1=majority |justice4-sortcode=1<!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+ |justice7-opinion1=concurrencedissent |justice7-sortcode=3<!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=42
+ |case=County of Los Angeles v. Mendez
+ |volume=581
+ |page=
+ |argue-date=March 22, 2017
+ |decision-date=May 30, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=43
+ |case=Town of Chester v. Laroe Estates, Inc.
+ |volume=581
+ |page=
+ |argue-date=April 17, 2017
+ |decision-date=June 5, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+ |justice6-opinion1=majority |justice6-sortcode=1<!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=44
+ |case=Honeycutt v. United States
+ |volume=581
+ |page=
+ |argue-date=March 29, 2017
+ |decision-date=June 5, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=45
+ |case=Kokesh v. SEC
+ |volume=581
+ |page=
+ |argue-date=April 18, 2017
+ |decision-date=June 5, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+ |justice7-opinion1=majority |justice7-sortcode=1<!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=46
+ |case=Advocate Health Care Network v. Stapleton
+ |volume=581
+ |page=
+ |argue-date=March 27, 2017
+ |decision-date=June 5, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+ |justice7-opinion1=joinmajority |justice7-opinion2=concurrence |justice7-sortcode=2J1<!--sotomayor-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=47
+ |case=North Carolina v. Covington
+ |volume=581
+ |page=
+ |argue-date=
+ |decision-date=June 5, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=48
+ |case=Sandoz Inc. v. Amgen Inc.
+ |volume=582
+ |page=
+ |argue-date=April 26, 2017
+ |decision-date=June 12, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1 <!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1 <!--kennedy-->
+ |justice3-opinion1=majority |justice3-sortcode=1 <!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1 <!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-opinion2=concurrence |justice5-sortcode=2J1<!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1 <!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1 <!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1 <!--kagan-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1 <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=49
+ |case=Microsoft Corp. v. Baker
+ |volume=582
+ |page=
+ |argue-date=March 21, 2017
+ |decision-date=June 12, 2017
+ |justice1-opinion1=joinconcurrence |justice1-sortcode=J2 <!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1 <!--kennedy-->
+ |justice3-opinion1=concurrence |justice3-sortcode=2 <!--thomas-->
+ |justice4-opinion1=majority |justice4-sortcode=1 <!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1 <!--breyer-->
+ |justice6-opinion1=joinconcurrence |justice6-sortcode=J2 <!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1 <!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1 <!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=50
+ |case=Sessions v. Morales-Santana
+ |volume=582
+ |page=
+ |argue-date=November 9, 2016
+ |decision-date=June 12, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1 <!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1 <!--kennedy-->
+ |justice3-opinion1=concurrence |justice3-sortcode=2 <!--thomas-->
+ |justice4-opinion1=majority |justice4-sortcode=1 <!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1 <!--breyer-->
+ |justice6-opinion1=joinconcurrence |justice6-sortcode=J2 <!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1 <!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1 <!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=51
+ |case=Henson v. Santander Consumer USA Inc.
+ |volume=582
+ |page=
+ |argue-date=April 18, 2017
+ |decision-date=June 12, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--kagan-->
+ |justice9-opinion1=majority |justice9-sortcode=1<!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=52
+ |case=Virginia v. LeBlanc
+ |volume=582
+ |page=
+ |argue-date=
+ |decision-date=June 12, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1 <!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1 <!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1 <!--thomas-->
+ |justice4-opinion1=concurrence  |justice4-sortcode=2 <!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1 <!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1 <!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1 <!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1 <!--kagan-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1 <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=53
+ |case=Packingham v. North Carolina
+ |volume=582
+ |page=
+ |argue-date=February 27, 2017
+ |decision-date=June 19, 2017
+ |justice1-opinion1=joinconcurrence |justice1-sortcode=J2 <!--roberts-->
+ |justice2-opinion1=majority |justice2-sortcode=1 <!--kennedy-->
+ |justice3-opinion1=joinconcurrence |justice3-sortcode=J2 <!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1 <!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1 <!--breyer-->
+ |justice6-opinion1=concurrence |justice6-sortcode=2 <!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1 <!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1 <!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=54
+ |case=Ziglar v. Abbasi
+ |volume=582
+ |page=
+ |argue-date=January 18, 2017
+ |decision-date=June 19, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1 <!--roberts-->
+ |justice2-opinion1=plurality |justice2-sortcode=1X <!--kennedy-->
+ |justice3-opinion1=partjoinmajority |justice3-opinion2=concurrence |justice3-sortcode=2J1X <!--thomas-->
+ |justice4-opinion1=joindissent |justice4-sortcode=J4 <!--ginsburg-->
+ |justice5-opinion1=dissent |justice5-sortcode=4 <!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1 <!--alito-->
+ |justice7-opinion1=didnotparticipate |justice7-sortcode=X <!--sotomayor-->
+ |justice8-opinion1=didnotparticipate |justice8-sortcode=X <!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=55
+ |case=McWilliams v. Dunn
+ |volume=582
+ |page=
+ |argue-date=April 24, 2017
+ |decision-date=June 19, 2017
+ |justice1-opinion1=joindissent |justice1-sortcode=J4 <!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1 <!--kennedy-->
+ |justice3-opinion1=joindissent |justice3-sortcode=J4 <!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1 <!--ginsburg-->
+ |justice5-opinion1=majority |justice5-sortcode=1 <!--breyer-->
+ |justice6-opinion1=dissent |justice6-sortcode=4 <!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1 <!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1 <!--kagan-->
+ |justice9-opinion1=joindissent |justice9-sortcode=J4 <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=56
+ |case=Matal v. Tam
+ |volume=582
+ |page=
+ |argue-date=January 18, 2017
+ |decision-date=June 19, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1 <!--roberts-->
+ |justice2-opinion1=partjoinmajority |justice2-opinion2=concurrence1 |justice2-sortcode=2J1X <!--kennedy-->
+ |justice3-opinion1=partjoinmajority |justice3-opinion2=concurrence2 |justice3-sortcode=2J1X <!--thomas-->
+ |justice4-opinion1=partjoinmajority |justice4-opinion2=joinconcurrence1 |justice4-sortcode=J1XJ2 <!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1 <!--breyer-->
+ |justice6-opinion1=plurality |justice6-sortcode=1X <!--alito-->
+ |justice7-opinion1=partjoinmajority |justice7-opinion2=joinconcurrence1 |justice7-sortcode=J1XJ2 <!--sotomayor-->
+ |justice8-opinion1=partjoinmajority |justice8-opinion2=joinconcurrence1 |justice8-sortcode=J1XJ2 <!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=57
+ |case-article=Bristol-Myers Squibb Co. v. Superior Court of Cal., San Francisco Cty.
+ |case-display=Bristol-Myers Squibb Co. v. Superior Court of Cal.
+ |volume=582
+ |page=
+ |argue-date=April 25, 2017
+ |decision-date=June 19, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1 <!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1 <!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1 <!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1 <!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1 <!--breyer-->
+ |justice6-opinion1=majority |justice6-sortcode=1 <!--alito-->
+ |justice7-opinion1=dissent |justice7-sortcode=4 <!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1 <!--kagan-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1 <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=58
+ |case=Jenkins v. Hutton
+ |volume=582
+ |page=
+ |argue-date=
+ |decision-date=June 19, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1 <!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1 <!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1 <!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1 <!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1 <!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1 <!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1 <!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1 <!--kagan-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1 <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=59
+ |case=Weaver v. Massachusetts
+ |volume=582
+ |page=
+ |argue-date=April 19, 2017
+ |decision-date=June 22, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1 <!--roberts-->
+ |justice2-opinion1=majority |justice2-sortcode=1 <!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-opinion2=concurrence1 |justice3-sortcode=2J1 <!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1 <!--ginsburg-->
+ |justice5-opinion1=dissent |justice5-sortcode=4 <!--breyer-->
+ |justice6-opinion1=concurrence2 |justice6-sortcode=2 <!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1 <!--sotomayor-->
+ |justice8-opinion1=joindissent |justice8-sortcode=J4 <!--kagan-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=joinconcurrence1 |justice9-opinion3=joinconcurrence2 |justice9-sortcode=J1J2J2 <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=60
+ |case=Turner v. United States
+ |volume=582
+ |page=
+ |argue-date=March 29, 2017
+ |decision-date=June 22, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1 <!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1 <!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1 <!--thomas-->
+ |justice4-opinion1=joindissent |justice4-sortcode=J4 <!--ginsburg-->
+ |justice5-opinion1=majority |justice5-sortcode=1 <!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1 <!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1 <!--sotomayor-->
+ |justice8-opinion1=dissent |justice8-sortcode=4 <!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=61
+ |case=Maslenjak v. United States
+ |volume=582
+ |page=
+ |argue-date=April 26, 2017
+ |decision-date=June 22, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1 <!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1 <!--kennedy-->
+ |justice3-opinion1=joinconcurrence2 |justice3-sortcode=J2 <!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1 <!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1 <!--breyer-->
+ |justice6-opinion1=concurrence1 |justice6-sortcode=2 <!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1 <!--sotomayor-->
+ |justice8-opinion1=majority |justice8-sortcode=1 <!--kagan-->
+ |justice9-opinion1=concurrence2 |justice9-sortcode=2 <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=62
+ |case=Jae Lee v. United States
+ |volume=582
+ |page=
+ |argue-date=March 28, 2017
+ |decision-date=June 23, 2017
+ |justice1-opinion1=majority |justice1-sortcode=1 <!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1 <!--kennedy-->
+ |justice3-opinion1=dissent |justice3-sortcode=4 <!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1 <!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1 <!--breyer-->
+ |justice6-opinion1=partjoindissent |justice6-sortcode=J4X <!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1 <!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1 <!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=63
+ |case=Murr v. Wisconsin
+ |volume=582
+ |page=
+ |argue-date=March 20, 2017
+ |decision-date=June 23, 2017
+ |justice1-opinion1=dissent1 |justice1-sortcode=4 <!--roberts-->
+ |justice2-opinion1=majority |justice2-sortcode=1 <!--kennedy-->
+ |justice3-opinion1=joindissent1 |justice3-opinion2=dissent2 |justice3-sortcode=4J4 <!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1 <!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1 <!--breyer-->
+ |justice6-opinion1=joindissent1 |justice6-sortcode=J4 <!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1 <!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1 <!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=64
+ |case=Perry v. Merit Systems Protection Board
+ |volume=582
+ |page=
+ |argue-date=April 17, 2017
+ |decision-date=June 23, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1 <!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1 <!--kennedy-->
+ |justice3-opinion1=joindissent |justice3-sortcode=J4 <!--thomas-->
+ |justice4-opinion1=majority |justice4-sortcode=1 <!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1 <!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1 <!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1 <!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1 <!--kagan-->
+ |justice9-opinion1=dissent |justice9-sortcode=4 <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=65
+ |case=Trinity Lutheran Church of Columbia, Inc. v. Comer
+ |volume=582
+ |page=
+ |argue-date=April 19, 2017
+ |decision-date=June 26, 2017
+ |justice1-opinion1=plurality |justice1-sortcode=1 <!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1 <!--kennedy-->
+ |justice3-opinion1=partjoinmajority |justice3-opinion2=concurrence1 |justice3-opinion3=joinconcurrence3 |justice3-sortcode=2J1J2 <!--thomas-->
+ |justice4-opinion1=joindissent |justice4-sortcode=J4 <!--ginsburg-->
+ |justice5-opinion1=concurrence2 |justice5-sortcode=2 <!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1 <!--alito-->
+ |justice7-opinion1=dissent |justice7-sortcode=4 <!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1 <!--kagan-->
+ |justice9-opinion1=partjoinmajority |justice9-opinion2=joinconcurrence1 |justice9-opinion3=concurrence3 |justice9-sortcode=2J1J2 <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=66
+ |case=California Public Employees' Retirement System v. ANZ Securities, Inc.
+ |volume=582
+ |page=
+ |argue-date=April 17, 2017
+ |decision-date=June 26, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1 <!--roberts-->
+ |justice2-opinion1=majority |justice2-sortcode=1 <!--kennedy-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1 <!--thomas-->
+ |justice4-opinion1=dissent |justice4-sortcode=4 <!--ginsburg-->
+ |justice5-opinion1=joindissent |justice5-sortcode=J4 <!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1 <!--alito-->
+ |justice7-opinion1=joindissent |justice7-sortcode=J4 <!--sotomayor-->
+ |justice8-opinion1=joindissent |justice8-sortcode=J4 <!--kagan-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1 <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=67
+ |case=Davila v. Davis
+ |volume=582
+ |page=
+ |argue-date=April 24, 2017
+ |decision-date=June 26, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1 <!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1 <!--kennedy-->
+ |justice3-opinion1=majority |justice3-sortcode=1 <!--thomas-->
+ |justice4-opinion1=joindissent |justice4-sortcode=J4 <!--ginsburg-->
+ |justice5-opinion1=dissent |justice5-sortcode=4 <!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1 <!--alito-->
+ |justice7-opinion1=joindissent |justice7-sortcode=J4 <!--sotomayor-->
+ |justice8-opinion1=joindissent |justice8-sortcode=J4 <!--kagan-->
+ |justice9-opinion1=joinmajority |justice9-sortcode=J1 <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=68
+ |case=Hernandez v. Mesa
+ |volume=582
+ |page=
+ |argue-date=
+ |decision-date=June 26, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1 <!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1 <!--kennedy-->
+ |justice3-opinion1=dissent1 |justice3-sortcode=4 <!--thomas-->
+ |justice4-opinion1=joindissent2 |justice4-sortcode=J4 <!--ginsburg-->
+ |justice5-opinion1=dissent2 |justice5-sortcode=4 <!--breyer-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1 <!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1 <!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1 <!--kagan-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=69
+ |case=Pavan v. Smith
+ |volume=582
+ |page=
+ |argue-date=
+ |decision-date=June 26, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1 <!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1 <!--kennedy-->
+ |justice3-opinion1=joindissent |justice3-sortcode=J4 <!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1 <!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1 <!--breyer-->
+ |justice6-opinion1=joindissent |justice6-sortcode=J4 <!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1 <!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1 <!--kagan-->
+ |justice9-opinion1=dissent |justice9-sortcode=4 <!--gorsuch-->
+}}
+{{SCOTUS-termlist-entry
+ |#=70
+ |case=Trump. v. International Refugee Assistance Project
+ |volume=582
+ |page=
+ |argue-date=
+ |decision-date=June 26, 2017
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1 <!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1 <!--kennedy-->
+ |justice3-opinion1=concurrencedissent |justice3-sortcode=3 <!--thomas-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1 <!--ginsburg-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1 <!--breyer-->
+ |justice6-opinion1=joinconcurrencedissent |justice6-sortcode=J3 <!--alito-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1 <!--sotomayor-->
+ |justice8-opinion1=joinmajority |justice8-sortcode=J1 <!--kagan-->
+ |justice9-opinion1=joinconcurrencedissent |justice9-sortcode=J3 <!--gorsuch-->
+}}
+{{SCOTUS-termlist-end|Roberts|Kennedy|Thomas|Ginsburg|Breyer|Alito|Sotomayor|Kagan|Gorsuch}}
+

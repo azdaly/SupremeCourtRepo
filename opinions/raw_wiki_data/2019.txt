@@ -1,0 +1,1076 @@
+==2019 term opinions==
+{{SCOTUS-termlist-start|Roberts|Thomas|Ginsburg|Breyer|Alito|Sotomayor|Kagan|Gorsuch|Kavanaugh}}
+{{SCOTUS-termlist-entry
+  |#=1
+  |case=Thompson v. Hebdon
+  |volume=589
+  |page=
+  |argue-date=
+  |decision-date=November 25, 2019
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-opinion2=statement |justice3-sortcode=5J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=2
+  |case1=[[Rotkiske v. Klemm]]
+  |volume=589
+  |page=
+  |argue-date=October 16, 2019
+  |decision-date=December 10, 2019
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=majority |justice2-sortcode=1<!--thomas-->
+  |justice3-opinion1=dissent |justice3-sortcode=4<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-opinion2=concurrence |justice6-sortcode=2J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=3
+  |case1=[[Peter v. NantKwest, Inc.]]
+  |volume=589
+  |page=
+  |argue-date=October 7, 2019
+  |decision-date=December 10, 2019
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=majority |justice6-sortcode=1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=4
+  |case=Ritzen Group, Inc. v. Jackson Masonry, LLC
+  |volume=589
+  |page=
+  |argue-date=November 13, 2019
+  |decision-date=January 14, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=majority |justice3-sortcode=1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=5
+  |case=Retirement Plans Comm. of IBM v. Jander
+  |volume=589
+  |page=
+  |argue-date=November 6, 2019
+  |decision-date=January 14, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-opinion2=joinconcurrence1 |justice3-sortcode=J1J2<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-opinion2=concurrence1 |justice7-sortcode=2J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-opinion2=concurrence2 |justice8-sortcode=2J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=6
+  |case=Roman Catholic Archdiocese of San Juan v. Acevedo Feliciano
+  |volume=589
+  |page=
+  |argue-date=
+  |decision-date=February 24, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-opinion2=joinconcurrence |justice2-sortcode=J1J2<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-opinion2=concurrence |justice5-sortcode=2J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=7
+  |case=Monasky v. Taglieri
+  |volume=589
+  |page=
+  |argue-date=December 11, 2019
+  |decision-date=February 25, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=partjoinmajority |justice2-opinion2=concurrence1 |justice2-sortcode=2J1X<!--thomas-->
+  |justice3-opinion1=majority |justice3-sortcode=1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=concurrence2 |justice5-sortcode=2<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=8
+  |case=Hernandez v. Mesa
+  |volume=589
+  |page=
+  |argue-date=November 12, 2019
+  |decision-date=February 25, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-opinion2=concurrence |justice2-sortcode=2J1<!--thomas-->
+  |justice3-opinion1=dissent |justice3-sortcode=4<!--ginsburg-->
+  |justice4-opinion1=joindissent |justice4-sortcode=J4<!--breyer-->
+  |justice5-opinion1=majority |justice5-sortcode=1<!--alito-->
+  |justice6-opinion1=joindissent |justice6-sortcode=J4<!--sotomayor-->
+  |justice7-opinion1=joindissent |justice7-sortcode=J4<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence |justice8-sortcode=J1J2<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=9
+  |case=Rodriguez v. FDIC
+  |volume=589
+  |page=
+  |argue-date=December 3, 2019
+  |decision-date=February 25, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=majority |justice8-sortcode=1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=10
+  |case=McKinney v. Arizona
+  |volume=589
+  |page=
+  |argue-date=December 11, 2019
+  |decision-date=February 25, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=dissent |justice3-sortcode=4<!--ginsburg-->
+  |justice4-opinion1=joindissent |justice4-sortcode=J4<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joindissent |justice6-sortcode=J4<!--sotomayor-->
+  |justice7-opinion1=joindissent |justice7-sortcode=J4<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=majority |justice9-sortcode=1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=11
+  |case=Shular v. United States
+  |volume=589
+  |page=
+  |argue-date=January 21, 2020
+  |decision-date=February 26, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=majority |justice3-sortcode=1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-opinion2=concurrence |justice9-sortcode=2J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=12
+  |case=Holguin-Hernandez v. United States
+  |volume=589
+  |page=
+  |argue-date=December 10, 2019
+  |decision-date=February 26, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=majority |justice4-sortcode=1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-opinion2=concurrence |justice5-sortcode=2J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence |justice8-sortcode=J1J2<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=13
+  |case=Intel Corp. Investment Policy Comm. v. Sulyma
+  |volume=589
+  |page=
+  |argue-date=December 4, 2019
+  |decision-date=February 26, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=majority |justice5-sortcode=1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=14
+  |case=Kansas v. Garcia
+  |volume=589
+  |page=
+  |argue-date=October 16, 2019
+  |decision-date=March 3, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-opinion2=concurrence |justice2-sortcode=2J1<!--thomas-->
+  |justice3-opinion1=joinconcurrencedissent |justice3-sortcode=J3<!--ginsburg-->
+  |justice4-opinion1=concurrencedissent |justice4-sortcode=3<!--breyer-->
+  |justice5-opinion1=majority |justice5-sortcode=1<!--alito-->
+  |justice6-opinion1=joinconcurrencedissent |justice6-sortcode=J3<!--sotomayor-->
+  |justice7-opinion1=joinconcurrencedissent |justice7-sortcode=J3<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence |justice8-sortcode=J1J2<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=15
+  |case=Guerrero-Lasprilla v. Barr
+  |volume=589
+  |page=
+  |argue-date=December 9, 2019
+  |decision-date=March 23, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=dissent |justice2-sortcode=4<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=majority |justice4-sortcode=1<!--breyer-->
+  |justice5-opinion1=partjoindissent |justice5-sortcode=J4X<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=16
+  |case=Allen v. Cooper
+  |volume=589
+  |page=
+  |argue-date=November 5, 2019
+  |decision-date=March 23, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=partjoinmajority |justice2-opinion2=concurrence1 |justice2-sortcode=2J1X<!--thomas-->
+  |justice3-opinion1=joinconcurrence2 |justice3-sortcode=J2<!--ginsburg-->
+  |justice4-opinion1=concurrence2 |justice4-sortcode=2<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=majority |justice7-sortcode=1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=17
+  |case=Kahler v. Kansas
+  |volume=589
+  |page=
+  |argue-date=October 7, 2019
+  |decision-date=March 23, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=joindissent |justice3-sortcode=J4<!--ginsburg-->
+  |justice4-opinion1=dissent |justice4-sortcode=4<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joindissent |justice6-sortcode=J4<!--sotomayor-->
+  |justice7-opinion1=majority |justice7-sortcode=1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=18
+  |case=Comcast Corp. v. National Assn. of African-American Owned Media
+  |volume=589
+  |page=
+  |argue-date=November 13, 2019
+  |decision-date=March 23, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=partjoinmajority |justice3-opinion2=concurrence |justice3-sortcode=2J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=majority |justice8-sortcode=1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=19
+  |case-article=Davis v. United States (2020)
+  |case-display=Davis v. United States
+  |volume=589
+  |page=
+  |argue-date=
+  |decision-date=March 23, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=20
+  |case=CITGO Asphalt Refining Co. v. Frescati Shipping Co.
+  |volume=589
+  |page=
+  |argue-date=November 5, 2019
+  |decision-date=March 30, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=dissent |justice2-sortcode=4<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joindissent |justice5-sortcode=J4<!--alito-->
+  |justice6-opinion1=majority |justice6-sortcode=1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=21
+  |case=Kansas v. Glover
+  |volume=589
+  |page=
+  |argue-date=November 4, 2019
+  |decision-date=April 6, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=majority |justice2-sortcode=1<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-opinion2=joinconcurrence |justice3-sortcode=J1J2<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=dissent |justice6-sortcode=4<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-opinion2=concurrence |justice7-sortcode=2J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=22
+  |case=Babb v. Wilkie
+  |volume=589
+  |page=
+  |argue-date=January 15, 2020
+  |decision-date=April 6, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=dissent |justice2-sortcode=4<!--thomas-->
+  |justice3-opinion1=partjoinmajority |justice3-opinion2=joinconcurrence |justice3-sortcode=J1XJ2<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=majority |justice5-sortcode=1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-opinion2=concurrence |justice6-sortcode=2J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=23
+  |case=Republican National Committee v. Democratic National Committee
+  |volume=589
+  |page=
+  |argue-date=
+  |decision-date=April 6, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=dissent |justice3-sortcode=4<!--ginsburg-->
+  |justice4-opinion1=joindissent |justice4-sortcode=J4<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joindissent |justice6-sortcode=J4<!--sotomayor-->
+  |justice7-opinion1=joindissent |justice7-sortcode=J4<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=24
+  |case=Atlantic Richfield Co. v. Christian
+  |volume=590
+  |page=
+  |argue-date=December 3, 2019
+  |decision-date=April 20, 2020
+  |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+  |justice2-opinion1=partjoinmajority |justice2-opinion2=joinconcurrencedissent2 |justice2-sortcode=J1XJ3<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=partjoinmajority |justice5-opinion2=concurrencedissent1 |justice5-sortcode=3J1X<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=partjoinmajority |justice8-opinion2=concurrencedissent2 |justice8-sortcode=3J1X<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=25
+  |case=Thryv, Inc. v. Click-To-Call Technologies, LP
+  |volume=590
+  |page=
+  |argue-date=December 9, 2019
+  |decision-date=April 20, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=partjoinmajority |justice2-sortcode=J1X<!--thomas-->
+  |justice3-opinion1=majority |justice3-sortcode=1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=partjoinmajority |justice5-sortcode=J1X<!--alito-->
+  |justice6-opinion1=partjoindissent |justice6-sortcode=J4X<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=dissent |justice8-sortcode=4<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=26
+  |case=Ramos v. Louisiana
+  |volume=590
+  |page=
+  |argue-date=October 7, 2019
+  |decision-date=April 20, 2020
+  |justice1-opinion1=joindissent |justice1-sortcode=J4<!--roberts-->
+  |justice2-opinion1=concurrence1 |justice2-sortcode=2<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=dissent |justice5-sortcode=4<!--alito-->
+  |justice6-opinion1=partjoinmajority |justice6-opinion2=concurrence2 |justice6-sortcode=2J1X<!--sotomayor-->
+  |justice7-opinion1=partjoindissent |justice7-sortcode=J4X<!--kagan-->
+  |justice8-opinion1=plurality |justice8-sortcode=1X<!--gorsuch-->
+  |justice9-opinion1=partjoinmajority |justice9-opinion2=concurrence3 |justice9-sortcode=2J1X<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=27
+  |case=County of Maui v. Hawaii Wildlife Fund
+  |volume=590
+  |page=
+  |argue-date=November 6, 2019
+  |decision-date=April 23, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=dissent1 |justice2-sortcode=4<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=majority |justice4-sortcode=1<!--breyer-->
+  |justice5-opinion1=dissent2 |justice5-sortcode=4<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joindissent1 |justice8-sortcode=J4<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-opinion2=concurrence |justice9-sortcode=2J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=28
+  |case=Romag Fasteners, Inc. v. Fossil, Inc.
+  |volume=590
+  |page=
+  |argue-date=January 14, 2020
+  |decision-date=April 23, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-opinion2=joinconcurrence1 |justice4-sortcode=J1J2<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-opinion2=concurrence1 |justice5-sortcode=2J1<!--alito-->
+  |justice6-opinion1=concurrence2 |justice6-sortcode=2<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-opinion2=joinconcurrence1 |justice7-sortcode=J1J2<!--kagan-->
+  |justice8-opinion1=majority |justice8-sortcode=1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=29
+  |case=Barton v. Barr
+  |volume=590
+  |page=
+  |argue-date=November 4, 2019
+  |decision-date=April 23, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=joindissent |justice3-sortcode=J4<!--ginsburg-->
+  |justice4-opinion1=joindissent |justice4-sortcode=J4<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=dissent |justice6-sortcode=4<!--sotomayor-->
+  |justice7-opinion1=joindissent |justice7-sortcode=J4<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=majority |justice9-sortcode=1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=30
+  |case=Georgia v. Public.Resource.Org, Inc.
+  |volume=590
+  |page=
+  |argue-date=December 2, 2019
+  |decision-date=April 27, 2020
+  |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+  |justice2-opinion1=dissent1 |justice2-sortcode=4<!--thomas-->
+  |justice3-opinion1=dissent2 |justice3-sortcode=4<!--ginsburg-->
+  |justice4-opinion1=partjoindissent1|justice4-opinion2=joindissent2 |justice4-sortcode=J4J4X<!--breyer-->
+  |justice5-opinion1=joindissent1 |justice5-sortcode=J4<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=31
+  |case=Maine Community Health Options v. United States
+  |volume=590
+  |page=
+  |argue-date=December 10, 2019
+  |decision-date=April 27, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=partjoinmajority |justice2-sortcode=J1X<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=dissent |justice5-sortcode=4<!--alito-->
+  |justice6-opinion1=majority |justice6-sortcode=1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=partjoinmajority |justice8-sortcode=J1X<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=32
+  |case=New York State Rifle & Pistol Assn., Inc. v. City of New York
+  |volume=590
+  |page=
+  |argue-date=December 2, 2019
+  |decision-date=April 27, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=partjoindissent |justice2-sortcode=J4X<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=dissent |justice5-sortcode=4<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joindissent |justice8-sortcode=J4<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-opinion2=concurrence |justice9-sortcode=2J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=33
+  |case=United States v. Sineneng-Smith
+  |volume=590
+  |page=
+  |argue-date=February 25, 2020
+  |decision-date=May 7, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-opinion2=concurrence |justice2-sortcode=2J1<!--thomas-->
+  |justice3-opinion1=majority |justice3-sortcode=1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=34
+  |case=Kelly v. United States
+  |volume=590
+  |page=
+  |argue-date=January 14, 2020
+  |decision-date=May 7, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=majority |justice7-sortcode=1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=35
+  |case=Lucky Brand Dungarees, Inc. v. Marcel Fashions Group, Inc.
+  |volume=590
+  |page=
+  |argue-date=January 13, 2020
+  |decision-date=May 14, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=majority |justice6-sortcode=1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+ |#=36
+ |case=Opati v. Republic of Sudan
+ |volume=590
+ |page=___
+ |argue-date=February 24, 2020
+ |decision-date=May 18, 2020
+ |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+ |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+ |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+ |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+ |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+ |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+ |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+ |justice8-opinion1=majority |justice8-sortcode=1<!--gorsuch-->
+ |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=37
+  |case=GE Energy Power Conversion France SAS v. Outokumpu Stainless USA, LLC
+  |volume=590
+  |page=
+  |argue-date=January 21, 2020
+  |decision-date=June 1, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=majority |justice2-sortcode=1<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-opinion2=concurrence |justice6-sortcode=2J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=38
+  |case=Financial Oversight and Mngmt Bd. for Puerto Rico v. Aurelius Investment, LLC
+  |volume=590
+  |page=
+  |argue-date=October 15, 2019
+  |decision-date=June 1, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=concurrence1 |justice2-sortcode=2<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=majority |justice4-sortcode=1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=concurrence2 |justice6-sortcode=2<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=39
+  |case=Banister v. Davis
+  |volume=590
+  |page=
+  |argue-date=December 4, 2019
+  |decision-date=June 1, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joindissent |justice2-sortcode=J4<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=dissent |justice5-sortcode=4<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=majority |justice7-sortcode=1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=40
+  |case=Thole v. U.S. Bank N.A.
+  |volume=590
+  |page=
+  |argue-date=January 13, 2020
+  |decision-date=June 1, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-opinion2=concurrence |justice2-sortcode=2J1<!--thomas-->
+  |justice3-opinion1=joindissent |justice3-sortcode=J4<!--ginsburg-->
+  |justice4-opinion1=joindissent |justice4-sortcode=J4<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=dissent |justice6-sortcode=4<!--sotomayor-->
+  |justice7-opinion1=joindissent |justice7-sortcode=J4<!--kagan-->
+  |justice8-opinion1=joinmajority | justice8-opinion2=joinconcurrence |justice8-sortcode=J1J2<!--gorsuch-->
+  |justice9-opinion1=majority |justice9-sortcode=1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=41
+  |case=Nasrallah v. Barr
+  |volume=590
+  |page=
+  |argue-date=March 2, 2020
+  |decision-date=June 1, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=dissent |justice2-sortcode=4<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joindissent |justice5-sortcode=J4<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=majority |justice9-sortcode=1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=42
+  |case=Lomax v. Ortiz-Marquez
+  |volume=590
+  |page=
+  |argue-date=February 26, 2020
+  |decision-date=June 8, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=partjoinmajority |justice2-sortcode=J1X<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=majority |justice7-sortcode=1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=43
+  |case=United States Forest Service v. Cowpasture River Preservation Assn.
+  |volume=590
+  |page=
+  |argue-date=February 24, 2020
+  |decision-date=June 15, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=majority |justice2-sortcode=1<!--thomas-->
+  |justice3-opinion1=partjoinmajority |justice3-sortcode=J1X<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=dissent |justice6-sortcode=4<!--sotomayor-->
+  |justice7-opinion1=joindissent |justice7-sortcode=J4<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=44
+  |case=Bostock v. Clayton County
+  |volume=590
+  |page=
+  |argue-date=October 8, 2019
+  |decision-date=June 15, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joindissent1 |justice2-sortcode=J4<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=dissent1 |justice5-sortcode=4<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=majority |justice8-sortcode=1<!--gorsuch-->
+  |justice9-opinion1=dissent2 |justice9-sortcode=4<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=45
+  |case=Andrus v. Texas
+  |volume=590
+  |page=
+  |argue-date=
+  |decision-date=June 15, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joindissent |justice2-sortcode=J4<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=dissent |justice5-sortcode=4<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joindissent |justice8-sortcode=J4<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=46
+  |case=Department of Homeland Security v. Regents of Univ. of Cal.
+  |volume=591
+  |page=
+  |argue-date=November 12, 2019
+  |decision-date=June 18, 2020
+  |justice1-opinion1=plurality |justice1-sortcode=1X<!--roberts-->
+  |justice2-opinion1=concurrencedissent1 |justice2-sortcode=3<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinconcurrencedissent1 |justice5-opinion2=concurrencedissent2 |justice5-sortcode=3J3<!--alito-->
+  |justice6-opinion1=partjoinmajority |justice6-opinion2=concurrencedissent3 |justice6-sortcode=3J1X<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinconcurrencedissent1 |justice8-sortcode=J3<!--gorsuch-->
+  |justice9-opinion1=concurrencedissent4 |justice9-sortcode=3<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=47
+  |case=Liu v. SEC
+  |volume=591
+  |page=
+  |argue-date=March 3, 2020
+  |decision-date=June 22, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=dissent |justice2-sortcode=4<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=majority |justice6-sortcode=1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=48
+  |case=Department of Homeland Security v. Thuraissigiam
+  |volume=591
+  |page=
+  |argue-date=March 2, 2020
+  |decision-date=June 25, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority|justice2-opinion2=concurrence1 |justice2-sortcode=2J1<!--thomas-->
+  |justice3-opinion1=joinconcurrence2 |justice3-sortcode=J2<!--ginsburg-->
+  |justice4-opinion1=concurrence2|justice4-sortcode=2<!--breyer-->
+  |justice5-opinion1=majority |justice5-sortcode=1<!--alito-->
+  |justice6-opinion1=dissent |justice6-sortcode=4<!--sotomayor-->
+  |justice7-opinion1=joindissent |justice7-sortcode=J4<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=49
+  |case=Seila Law v. Consumer Financial Protection Bureau
+  |volume=591
+  |page=
+  |argue-date=March 3, 2020
+  |decision-date=June 29, 2020
+  |justice1-opinion1=plurality |justice1-sortcode=1X<!--roberts-->
+  |justice2-opinion1=partjoinmajority|justice2-opinion2=concurrencedissent1 |justice2-sortcode=3J1<!--thomas-->
+  |justice3-opinion1=joinconcurrencedissent2 |justice3-sortcode=J3<!--ginsburg-->
+  |justice4-opinion1=joinconcurrencedissent2 |justice4-sortcode=J3<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joinconcurrencedissent2 |justice6-sortcode=J3<!--sotomayor-->
+  |justice7-opinion1=concurrencedissent2 |justice7-sortcode=3<!--kagan-->
+  |justice8-opinion1=partjoinmajority |justice8-opinion2=joinconcurrencedissent1 |justice8-sortcode=J1J3<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=50
+  |case=June Medical Services, LLC v. Russo
+  |volume=591
+  |page=
+  |argue-date=March 4, 2020
+  |decision-date=June 29, 2020
+  |justice1-opinion1=concurrence |justice1-sortcode=2<!--roberts-->
+  |justice2-opinion1=dissent1 |justice2-opinion2=partjoindissent2 |justice2-sortcode=4J4<!--thomas-->
+  |justice3-opinion1=joinplurality |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=plurality |justice4-sortcode=1<!--breyer-->
+  |justice5-opinion1=dissent2 |justice5-sortcode=4<!--alito-->
+  |justice6-opinion1=joinplurality |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinplurality |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joindissent2 |justice8-opinion2=dissent3 |justice8-sortcode=4J4<!--gorsuch-->
+  |justice9-opinion1=partjoindissent2 |justice9-opinion2=dissent4 |justice9-sortcode=4J2<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=51
+  |case=Agency for Int’l Development v. Alliance for Open Society
+  |volume=591
+  |page=
+  |argue-date=May 5, 2020
+  |decision-date=June 29, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority|justice2-opinion2=concurrence |justice2-sortcode=2J1<!--thomas-->
+  |justice3-opinion1=joindissent |justice3-sortcode=J4<!--ginsburg-->
+  |justice4-opinion1=dissent |justice4-sortcode=4<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=j1<!--alito-->
+  |justice6-opinion1=joindissent |justice6-sortcode=J4<!--sotomayor-->
+  |justice7-opinion1=didnotparticipate |justice7-sortcode=X<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=majority |justice9-sortcode=1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=52
+  |case=Espinoza v. Montana Dept. of Revenue
+  |volume=591
+  |page=
+  |argue-date=January 22, 2020
+  |decision-date=June 30, 2020
+  |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-opinion2=concurrence1 |justice2-sortcode=2J1<!--thomas-->
+  |justice3-opinion1=dissent1 |justice3-sortcode=4<!--ginsburg-->
+  |justice4-opinion1=dissent2 |justice4-sortcode=4<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-opinion2=concurrence2 |justice5-sortcode=2J1<!--alito-->
+  |justice6-opinion1=dissent3 |justice6-sortcode=4<!--sotomayor-->
+  |justice7-opinion1=joindissent1 | justice7-opinion2=partjoindissent2 |justice7-sortcode=J4J4X<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence1 |justice8-opinion3=concurrence3 |justice8-sortcode=2J1J2<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=53
+  |case=Patent and Trademark Office v. Booking.com B. V.
+  |volume=591
+  |page=
+  |argue-date=May 4, 2020
+  |decision-date=June 30, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=majority |justice3-sortcode=1<!--ginsburg-->
+  |justice4-opinion1=dissent |justice4-sortcode=4<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-opinion2=concurrence |justice6-sortcode=2J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=54
+  |case=Chiafalo v. Washington
+  |volume=591
+  |page=
+  |argue-date=May 13, 2020
+  |decision-date=July 6, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=concurrence |justice2-sortcode=2<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=majority |justice7-sortcode=1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-opinion2=partjoinconcurrence |justice8-sortcode=J1J2X<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=55
+  |case=Barr v. American Assn. of Political Consultants, Inc.
+  |volume=591
+  |page=
+  |argue-date=May 6, 2020
+  |decision-date=July 6, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=partjoinmajority |justice2-opinion2=partjoinconcurrencedissent2 |justice2-sortcode=J1X<!--thomas-->
+  |justice3-opinion1=joinconcurrencedissent1 |justice3-sortcode=J3<!--ginsburg-->
+  |justice4-opinion1=concurrencedissent1 |justice4-sortcode=3<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=concurrence |justice6-sortcode=2<!--sotomayor-->
+  |justice7-opinion1=joinconcurrencedissent1 |justice7-sortcode=J3<!--kagan-->
+  |justice8-opinion1=concurrencedissent2 |justice8-sortcode=3<!--gorsuch-->
+  |justice9-opinion1=plurality |justice9-sortcode=1X<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=56
+  |case=Colorado Dept. of State v. Baca
+  |volume=591
+  |page=
+  |argue-date=May 13, 2020
+  |decision-date=July 6, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=concurrencewithoutopinion |justice2-sortcode=2X<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=didnotparticipate |justice6-sortcode=X<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=57
+  |case=Little Sisters of the Poor Saints Peter and Paul Home v. Pennsylvania
+  |volume=591
+  |page=
+  |argue-date=May 6, 2020
+  |decision-date=July 8, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=majority |justice2-sortcode=1<!--thomas-->
+  |justice3-opinion1=dissent |justice3-sortcode=4<!--ginsburg-->
+  |justice4-opinion1=joinconcurrence2 |justice4-sortcode=J2<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-opinion2=concurrence1 |justice5-sortcode=2J1<!--alito-->
+  |justice6-opinion1=joindissent |justice6-sortcode=J4<!--sotomayor-->
+  |justice7-opinion1=concurrence2 |justice7-sortcode=2<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence1 |justice8-sortcode=J1J2<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=58
+  |case=Our Lady of Guadalupe School v. Morrissey-Berru
+  |volume=591
+  |page=
+  |argue-date=May 11, 2020
+  |decision-date=July 8, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-opinion2=concurrence |justice2-sortcode=2J1<!--thomas-->
+  |justice3-opinion1=joindissent |justice3-sortcode=J4<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=majority |justice5-sortcode=1<!--alito-->
+  |justice6-opinion1=dissent |justice6-sortcode=4<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence |justice8-sortcode=J1J2<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=59
+  |case=Trump v. Vance
+  |volume=591
+  |page=
+  |argue-date=May 12, 2020
+  |decision-date=July 9, 2020
+  |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+  |justice2-opinion1=dissent1 |justice2-sortcode=4<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=dissent2 |justice5-sortcode=4<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinconcurrence |justice8-sortcode=J2<!--gorsuch-->
+  |justice9-opinion1=concurrence |justice9-sortcode=2<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=60
+  |case=Trump v. Mazars USA, LLP
+  |volume=591
+  |page=
+  |argue-date=May 12, 2020
+  |decision-date=July 9, 2020
+  |justice1-opinion1=majority |justice1-sortcode=1<!--roberts-->
+  |justice2-opinion1=dissent1 |justice2-sortcode=4<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=dissent2 |justice5-sortcode=4<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=61
+  |case=McGirt v. Oklahoma
+  |volume=591
+  |page=
+  |argue-date=May 11, 2020
+  |decision-date=July 9, 2020
+  |justice1-opinion1=dissent1 |justice1-sortcode=4<!--roberts-->
+  |justice2-opinion1=partjoindissent1 |justice2-opinion2=dissent2 |justice2-sortcode=4J4X<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=joindissent1 |justice5-sortcode=J4<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=majority |justice8-sortcode=1<!--gorsuch-->
+  |justice9-opinion1=joindissent1 |justice9-sortcode=J4<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=62
+  |case=Sharp v. Murphy
+  |volume=591
+  |page=
+  |argue-date=November 27, 2018
+  |decision-date=July 9, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=dissentwithoutopinion  |justice2-sortcode=4X<!--thomas-->
+  |justice3-opinion1=joinmajority |justice3-sortcode=J1<!--ginsburg-->
+  |justice4-opinion1=joinmajority |justice4-sortcode=J1<!--breyer-->
+  |justice5-opinion1=dissentwithoutopinion |justice5-sortcode=4X<!--alito-->
+  |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
+  |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
+  |justice8-opinion1=didnotparticipate |justice8-sortcode=X<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-entry
+  |#=63
+  |case=Barr v. Lee
+  |volume=591
+  |page=
+  |argue-date=
+  |decision-date=July 14, 2020
+  |justice1-opinion1=joinmajority |justice1-sortcode=J1<!--roberts-->
+  |justice2-opinion1=joinmajority |justice2-sortcode=J1<!--thomas-->
+  |justice3-opinion1=joindissent1 |justice3-opinion2=joindissent2 |justice3-sortcode=J4J4<!--ginsburg-->
+  |justice4-opinion1=dissent1 |justice4-sortcode=4<!--breyer-->
+  |justice5-opinion1=joinmajority |justice5-sortcode=J1<!--alito-->
+  |justice6-opinion1=dissent2 |justice6-sortcode=4<!--sotomayor-->
+  |justice7-opinion1=joindissent2 |justice7-sortcode=J4<!--kagan-->
+  |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
+}}
+{{SCOTUS-termlist-end|Roberts|Thomas|Ginsburg|Breyer|Alito|Sotomayor|Kagan|Gorsuch|Kavanaugh}}
+
