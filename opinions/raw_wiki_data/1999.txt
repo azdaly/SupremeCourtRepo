@@ -16,7 +16,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=2
@@ -33,7 +33,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=3
@@ -50,7 +50,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=4
@@ -67,7 +67,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=5
@@ -84,7 +84,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=6
@@ -101,7 +101,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=7
@@ -118,7 +118,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=8
@@ -135,7 +135,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=9
@@ -153,7 +153,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=majority   |justice9-sortcode=1 <!—Breyer-->
+ |justice9-opinion1=majority   |justice9-sortcode=1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=10
@@ -170,7 +170,7 @@
  |justice6-opinion1=joinmajority |justice6-opinion2=joinconcurrence  |justice6-sortcode=J1J2 <!--Souter-->
  |justice7-opinion1=joinmajority |justice7-opinion2=joinconcurrence  |justice7-sortcode=J1J2 <!--Thomas-->
  |justice8-opinion1=concurrence |justice8-opinion2=joinmajority |justice8-sortcode=2J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority |justice9-opinion2=joinconcurrence  |justice9-sortcode=J1J2 <!—Breyer-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=joinconcurrence  |justice9-sortcode=J1J2 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=11
@@ -187,7 +187,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=majority  |justice8-sortcode=1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=12
@@ -204,7 +204,7 @@
  |justice6-opinion1=partjoinmajority |justice6-opinion2=joinconcurrencedissent  |justice6-sortcode=J1XJ3 <!--Souter-->
  |justice7-opinion1=concurrencedissent |justice7-opinion2=partjoinmajority  |justice7-sortcode=3J1X <!--Thomas-->
  |justice8-opinion1=partjoinmajority |justice8-opinion2=joinconcurrencedissent |justice8-sortcode=J1XJ3 <!--Ginsburg-->
- |justice9-opinion1=partjoinmajority |justice9-opinion2=joinconcurrencedissent  |justice9-sortcode=J1XJ3 <!—Breyer-->
+ |justice9-opinion1=partjoinmajority |justice9-opinion2=joinconcurrencedissent  |justice9-sortcode=J1XJ3 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=13
@@ -221,7 +221,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=14
@@ -238,7 +238,7 @@
  |justice6-opinion1=joinconcurrencedissent   |justice6-sortcode=J3 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinconcurrencedissent  |justice8-sortcode=J3 <!--Ginsburg-->
- |justice9-opinion1=joinconcurrencedissent   |justice9-sortcode=J3 <!—Breyer-->
+ |justice9-opinion1=joinconcurrencedissent   |justice9-sortcode=J3 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=15
@@ -255,7 +255,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=16
@@ -272,7 +272,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=concurrence |justice9-opinion2=joinmajority  |justice9-sortcode=2J1 <!—Breyer-->
+ |justice9-opinion1=concurrence |justice9-opinion2=joinmajority  |justice9-sortcode=2J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=17
@@ -289,7 +289,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joindissent   |justice7-sortcode=J4 <!--Thomas-->
  |justice8-opinion1=majority  |justice8-sortcode=1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=18
@@ -306,7 +306,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=19
@@ -323,7 +323,7 @@
  |justice6-opinion1=partjoindissent   |justice6-sortcode=J4X <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
- |justice9-opinion1=joindissent   |justice9-sortcode=J4 <!—Breyer-->
+ |justice9-opinion1=joindissent   |justice9-sortcode=J4 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=20
@@ -340,7 +340,7 @@
  |justice6-opinion1=majority   |justice6-sortcode=1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=21
@@ -357,7 +357,7 @@
  |justice6-opinion1=dissent   |justice6-sortcode=4 <!--Souter-->
  |justice7-opinion1=majority   |justice7-sortcode=1 <!--Thomas-->
  |justice8-opinion1=joindissent |justice8-opinion2=joindissent |justice8-sortcode=J4J4 <!--Ginsburg-->
- |justice9-opinion1=joindissent   |justice9-sortcode=J4 <!—Breyer-->
+ |justice9-opinion1=joindissent   |justice9-sortcode=J4 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=22
@@ -374,7 +374,7 @@
  |justice6-opinion1=concurrence |justice6-opinion2=joinmajority  |justice6-sortcode=2J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=majority  |justice8-sortcode=1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=23
@@ -391,7 +391,7 @@
  |justice6-opinion1=concurrencedissent   |justice6-sortcode=3 <!--Souter-->
  |justice7-opinion1=concurrence |justice7-opinion2=partjoinmajority  |justice7-sortcode=2J1X <!--Thomas-->
  |justice8-opinion1=joindissent |justice8-opinion2=joinconcurrencedissent |justice8-sortcode=J4J3 <!--Ginsburg-->
- |justice9-opinion1=dissent |justice9-opinion2=joinconcurrencedissent  |justice9-sortcode=4J3 <!—Breyer-->
+ |justice9-opinion1=dissent |justice9-opinion2=joinconcurrencedissent  |justice9-sortcode=4J3 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=24
@@ -408,7 +408,7 @@
  |justice6-opinion1=majority   |justice6-sortcode=1 <!--Souter-->
  |justice7-opinion1=dissent   |justice7-sortcode=4 <!--Thomas-->
  |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence |justice8-sortcode=J1J2 <!--Ginsburg-->
- |justice9-opinion1=concurrence |justice9-opinion2=joinmajority  |justice9-sortcode=2J1 <!—Breyer-->
+ |justice9-opinion1=concurrence |justice9-opinion2=joinmajority  |justice9-sortcode=2J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=25
@@ -425,7 +425,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=majority   |justice7-sortcode=1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=26
@@ -442,7 +442,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=majority  |justice8-sortcode=1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=27
@@ -459,7 +459,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=majority   |justice9-sortcode=1 <!—Breyer-->
+ |justice9-opinion1=majority   |justice9-sortcode=1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=28
@@ -476,7 +476,7 @@
  |justice6-opinion1=concurrencedissent |justice6-opinion2=partjoinmajority  |justice6-sortcode=3J1X <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=concurrencedissent |justice8-opinion2=partjoinmajority |justice8-opinion3=joinconcurrencedissent|justice8-sortcode=3J1XJ3 <!--Ginsburg-->
- |justice9-opinion1=concurrence |justice9-opinion2=joinmajority  |justice9-sortcode=2J1 <!—Breyer-->
+ |justice9-opinion1=concurrence |justice9-opinion2=joinmajority  |justice9-sortcode=2J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=29
@@ -493,7 +493,7 @@
  |justice6-opinion1=joinconcurrence   |justice6-sortcode=J2 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=dissent |justice8-opinion2=partjoindissent |justice8-sortcode=4J4X <!--Ginsburg-->
- |justice9-opinion1=concurrence   |justice9-sortcode=2 <!—Breyer-->
+ |justice9-opinion1=concurrence   |justice9-sortcode=2 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=30
@@ -510,7 +510,7 @@
  |justice6-opinion1=majority   |justice6-sortcode=1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=31
@@ -527,7 +527,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=concurrence |justice9-opinion2=joinmajority  |justice9-sortcode=2J1 <!—Breyer-->
+ |justice9-opinion1=concurrence |justice9-opinion2=joinmajority  |justice9-sortcode=2J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=32
@@ -544,7 +544,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=dissent   |justice7-sortcode=4 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=majority   |justice9-sortcode=1 <!—Breyer-->
+ |justice9-opinion1=majority   |justice9-sortcode=1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=33
@@ -562,7 +562,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=34
@@ -579,7 +579,7 @@
  |justice6-opinion1=joindissent   |justice6-sortcode=J4 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=dissent  |justice8-sortcode=4 <!--Ginsburg-->
- |justice9-opinion1=joinconcurrence   |justice9-sortcode=J2 <!—Breyer-->
+ |justice9-opinion1=joinconcurrence   |justice9-sortcode=J2 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=35
@@ -596,7 +596,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=36
@@ -613,7 +613,7 @@
  |justice6-opinion1=joindissent   |justice6-sortcode=J4 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
- |justice9-opinion1=dissent   |justice9-sortcode=4 <!—Breyer-->
+ |justice9-opinion1=dissent   |justice9-sortcode=4 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=37
@@ -630,7 +630,7 @@
  |justice6-opinion1=majority   |justice6-sortcode=1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=38
@@ -647,7 +647,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=39
@@ -664,7 +664,7 @@
  |justice6-opinion1=concurrence   |justice6-sortcode=2 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinconcurrence   |justice9-sortcode=J2 <!—Breyer-->
+ |justice9-opinion1=joinconcurrence   |justice9-sortcode=J2 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=40
@@ -681,7 +681,7 @@
  |justice6-opinion1=dissent   |justice6-sortcode=4 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=41
@@ -698,7 +698,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=majority  |justice8-sortcode=1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=42
@@ -715,7 +715,7 @@
  |justice6-opinion1=concurrencedissent |justice6-opinion2=joinmajority  |justice6-sortcode=3J1 <!--Souter-->
  |justice7-opinion1=joinconcurrence   |justice7-sortcode=J2 <!--Thomas-->
  |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
- |justice9-opinion1=joinmajority |justice9-opinion2=joinplurality  |justice9-sortcode=J1J1X <!—Breyer-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=joinplurality  |justice9-sortcode=J1J1X <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=43
@@ -732,7 +732,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=44
@@ -750,7 +750,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=dissent   |justice9-sortcode=4 <!—Breyer-->
+ |justice9-opinion1=dissent   |justice9-sortcode=4 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=45
@@ -767,7 +767,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=dissent  |justice8-sortcode=4 <!--Ginsburg-->
- |justice9-opinion1=concurrence |justice9-opinion2=joinmajority  |justice9-sortcode=2J1 <!—Breyer-->
+ |justice9-opinion1=concurrence |justice9-opinion2=joinmajority  |justice9-sortcode=2J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=46
@@ -784,7 +784,7 @@
  |justice6-opinion1=joinmajority |justice6-opinion2=joinplurality  |justice6-sortcode=J1J1X <!--Souter-->
  |justice7-opinion1=joinmajority |justice7-opinion2=joinconcurrencedissent  |justice7-sortcode=J1J3 <!--Thomas-->
  |justice8-opinion1=joinmajority |justice8-opinion2=joinplurality |justice8-sortcode=J1J1X <!--Ginsburg-->
- |justice9-opinion1=joinmajority |justice9-opinion2=joinplurality  |justice9-sortcode=J1J1X <!—Breyer-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=joinplurality  |justice9-sortcode=J1J1X <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=47
@@ -801,7 +801,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=48
@@ -818,7 +818,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=concurrence   |justice9-sortcode=2 <!—Breyer-->
+ |justice9-opinion1=concurrence   |justice9-sortcode=2 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=49
@@ -835,7 +835,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=majority  |justice8-sortcode=1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=50
@@ -852,7 +852,7 @@
  |justice6-opinion1=partjoinmajority |justice6-opinion2=joinconcurrence  |justice6-sortcode=J1XJ2 <!--Souter-->
  |justice7-opinion1=partjoinmajority |justice7-opinion2=joinconcurrencedissent  |justice7-sortcode=J1XJ3 <!--Thomas-->
  |justice8-opinion1=partjoinmajority  |justice8-sortcode=J1X <!--Ginsburg-->
- |justice9-opinion1=partjoinmajority |justice9-opinion2=joinconcurrence  |justice9-sortcode=J1XJ2 <!—Breyer-->
+ |justice9-opinion1=partjoinmajority |justice9-opinion2=joinconcurrence  |justice9-sortcode=J1XJ2 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=51
@@ -869,7 +869,7 @@
  |justice6-opinion1=joindissent   |justice6-sortcode=J4 <!--Souter-->
  |justice7-opinion1=majority   |justice7-sortcode=1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=52
@@ -886,7 +886,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=dissent  |justice8-sortcode=4 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=53
@@ -903,7 +903,7 @@
  |justice6-opinion1=concurrence |justice6-opinion2=joinmajority  |justice6-sortcode=2J1 <!--Souter-->
  |justice7-opinion1=majority   |justice7-sortcode=1 <!--Thomas-->
  |justice8-opinion1=joindissent |justice8-opinion2=joindissent |justice8-sortcode=J4J4 <!--Ginsburg-->
- |justice9-opinion1=dissent |justice9-opinion2=joindissent  |justice9-sortcode=4J4 <!—Breyer-->
+ |justice9-opinion1=dissent |justice9-opinion2=joindissent  |justice9-sortcode=4J4 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=54
@@ -920,7 +920,7 @@
  |justice6-opinion1=dissent |justice6-opinion2=partjoindissent  |justice6-sortcode=4J4X <!--Souter-->
  |justice7-opinion1=concurrence |justice7-opinion2=joinmajority  |justice7-sortcode=2J1 <!--Thomas-->
  |justice8-opinion1=joindissent |justice8-opinion2=partjoindissent |justice8-sortcode=J4J4X <!--Ginsburg-->
- |justice9-opinion1=dissent |justice9-opinion2=joindissent  |justice9-sortcode=4J4 <!—Breyer-->
+ |justice9-opinion1=dissent |justice9-opinion2=joindissent  |justice9-sortcode=4J4 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=55
@@ -937,7 +937,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=dissent   |justice7-sortcode=4 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=56
@@ -955,7 +955,7 @@
  |justice6-opinion1=majority   |justice6-sortcode=1 <!--Souter-->
  |justice7-opinion1=concurrence   |justice7-sortcode=2 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=57
@@ -972,7 +972,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority |justice7-opinion2=joinconcurrence  |justice7-sortcode=J1J2 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=majority   |justice9-sortcode=1 <!—Breyer-->
+ |justice9-opinion1=majority   |justice9-sortcode=1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=58
@@ -989,7 +989,7 @@
  |justice6-opinion1=dissent   |justice6-sortcode=4 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
- |justice9-opinion1=joindissent   |justice9-sortcode=J4 <!—Breyer-->
+ |justice9-opinion1=joindissent   |justice9-sortcode=J4 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=59
@@ -1006,7 +1006,7 @@
  |justice6-opinion1=joindissent   |justice6-sortcode=J4 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=concurrence  |justice8-sortcode=2 <!--Ginsburg-->
- |justice9-opinion1=concurrence |justice9-opinion2=joinmajority |justice9-opinion3=joinconcurrence |justice9-sortcode=2J1J2 <!—Breyer-->
+ |justice9-opinion1=concurrence |justice9-opinion2=joinmajority |justice9-opinion3=joinconcurrence |justice9-sortcode=2J1J2 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=60
@@ -1023,7 +1023,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=concurrence |justice7-opinion2=joinmajority  |justice7-sortcode=2J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=dissent   |justice9-sortcode=4 <!—Breyer-->
+ |justice9-opinion1=dissent   |justice9-sortcode=4 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=61
@@ -1041,7 +1041,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=concurrence |justice7-opinion2=joinmajority |justice7-opinion3=joinconcurrence |justice7-sortcode=2J1J2 <!--Thomas-->
  |justice8-opinion1=majority  |justice8-sortcode=1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=62
@@ -1058,7 +1058,7 @@
  |justice6-opinion1=joindissent   |justice6-sortcode=J4 <!--Souter-->
  |justice7-opinion1=joindissent   |justice7-sortcode=J4 <!--Thomas-->
  |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
- |justice9-opinion1=majority   |justice9-sortcode=1 <!—Breyer-->
+ |justice9-opinion1=majority   |justice9-sortcode=1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=63
@@ -1075,7 +1075,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=64
@@ -1092,7 +1092,7 @@
  |justice6-opinion1=majority   |justice6-sortcode=1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=65
@@ -1109,7 +1109,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=concurrence |justice7-opinion2=joinmajority  |justice7-sortcode=2J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=66
@@ -1126,7 +1126,7 @@
  |justice6-opinion1=concurrence   |justice6-sortcode=2 <!--Souter-->
  |justice7-opinion1=concurrence   |justice7-sortcode=2 <!--Thomas-->
  |justice8-opinion1=joinplurality  |justice8-sortcode=J1X <!--Ginsburg-->
- |justice9-opinion1=joinplurality   |justice9-sortcode=J1X <!—Breyer-->
+ |justice9-opinion1=joinplurality   |justice9-sortcode=J1X <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=67
@@ -1143,7 +1143,7 @@
  |justice6-opinion1=joinmajority |justice6-opinion2=joinplurality  |justice6-sortcode=J1J1X <!--Souter-->
  |justice7-opinion1=majority |justice7-opinion2=plurality  |justice7-sortcode=11X <!--Thomas-->
  |justice8-opinion1=joinmajority |justice8-opinion2=joinplurality |justice8-sortcode=J1J1X <!--Ginsburg-->
- |justice9-opinion1=dissent   |justice9-sortcode=4 <!—Breyer-->
+ |justice9-opinion1=dissent   |justice9-sortcode=4 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=68
@@ -1160,7 +1160,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=majority   |justice9-sortcode=1 <!—Breyer-->
+ |justice9-opinion1=majority   |justice9-sortcode=1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=69
@@ -1177,7 +1177,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=concurrence |justice8-opinion2=joinmajority |justice8-sortcode=2J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=70
@@ -1194,7 +1194,7 @@
  |justice6-opinion1=joindissent   |justice6-sortcode=J4 <!--Souter-->
  |justice7-opinion1=joinplurality   |justice7-sortcode=J1X <!--Thomas-->
  |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
- |justice9-opinion1=joindissent   |justice9-sortcode=J4 <!—Breyer-->
+ |justice9-opinion1=joindissent   |justice9-sortcode=J4 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=71
@@ -1211,7 +1211,7 @@
  |justice6-opinion1=majority   |justice6-sortcode=1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=72
@@ -1228,7 +1228,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=majority   |justice7-sortcode=1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=73
@@ -1245,7 +1245,7 @@
  |justice6-opinion1=joindissent   |justice6-sortcode=J4 <!--Souter-->
  |justice7-opinion1=majority   |justice7-sortcode=1 <!--Thomas-->
  |justice8-opinion1=dissent  |justice8-sortcode=4 <!--Ginsburg-->
- |justice9-opinion1=joindissent   |justice9-sortcode=J4 <!—Breyer-->
+ |justice9-opinion1=joindissent   |justice9-sortcode=J4 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=74
@@ -1262,7 +1262,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joindissent   |justice7-sortcode=J4 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=75
@@ -1279,7 +1279,7 @@
  |justice6-opinion1=concurrencedissent |justice6-opinion2=partjoinmajority  |justice6-sortcode=3J1X <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=partjoinmajority |justice8-opinion2=joinconcurrencedissent |justice8-sortcode=J1XJ3 <!--Ginsburg-->
- |justice9-opinion1=dissent   |justice9-sortcode=4 <!—Breyer-->
+ |justice9-opinion1=dissent   |justice9-sortcode=4 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=76
@@ -1296,7 +1296,7 @@
  |justice6-opinion1=majority   |justice6-sortcode=1 <!--Souter-->
  |justice7-opinion1=joinconcurrence   |justice7-sortcode=J2 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=77
@@ -1313,7 +1313,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinconcurrencedissent   |justice7-sortcode=J3 <!--Thomas-->
  |justice8-opinion1=majority  |justice8-sortcode=1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=78
@@ -1330,7 +1330,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joindissent   |justice7-sortcode=J4 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=79
@@ -1347,7 +1347,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=concurrence |justice7-opinion2=joinmajority  |justice7-sortcode=2J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=dissent |justice9-opinion2=joindissent  |justice9-sortcode=4J4 <!—Breyer-->
+ |justice9-opinion1=dissent |justice9-opinion2=joindissent  |justice9-sortcode=4J4 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=80
@@ -1364,7 +1364,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
- |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=81
@@ -1381,7 +1381,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
- |justice9-opinion1=majority   |justice9-sortcode=1 <!—Breyer-->
+ |justice9-opinion1=majority   |justice9-sortcode=1 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=82
@@ -1398,7 +1398,7 @@
  |justice6-opinion1=dissent |justice6-opinion2=joindissent  |justice6-sortcode=4J4 <!--Souter-->
  |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
  |justice8-opinion1=joindissent |justice8-opinion2=joindissent |justice8-sortcode=J4J4 <!--Ginsburg-->
- |justice9-opinion1=joindissent |justice9-opinion2=joindissent  |justice9-sortcode=J4J4 <!—Breyer-->
+ |justice9-opinion1=joindissent |justice9-opinion2=joindissent  |justice9-sortcode=J4J4 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=83
@@ -1415,7 +1415,7 @@
  |justice6-opinion1=concurrence |justice6-opinion2=joinmajority  |justice6-sortcode=2J1 <!--Souter-->
  |justice7-opinion1=joindissent   |justice7-sortcode=J4 <!--Thomas-->
  |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence |justice8-sortcode=J1J2 <!--Ginsburg-->
- |justice9-opinion1=joinmajority |justice9-opinion2=joinconcurrence  |justice9-sortcode=J1J2 <!—Breyer-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=joinconcurrence  |justice9-sortcode=J1J2 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=84
@@ -1432,7 +1432,7 @@
  |justice6-opinion1=dissent   |justice6-sortcode=4 <!--Souter-->
  |justice7-opinion1=plurality   |justice7-sortcode=1X <!--Thomas-->
  |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
- |justice9-opinion1=joinconcurrence   |justice9-sortcode=J2 <!—Breyer-->
+ |justice9-opinion1=joinconcurrence   |justice9-sortcode=J2 <!--Breyer-->
 }} 
 {{SCOTUS-termlist-entry
  |#=85
@@ -1449,7 +1449,7 @@
  |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
  |justice7-opinion1=dissent   |justice7-sortcode=4 <!--Thomas-->
  |justice8-opinion1=concurrence |justice8-opinion2=joinmajority |justice8-opinion3=joinconcurrence|justice8-sortcode=2J1J2 <!--Ginsburg-->
- |justice9-opinion1=majority   |justice9-sortcode=1 <!—Breyer-->
+ |justice9-opinion1=majority   |justice9-sortcode=1 <!--Breyer-->
 }}
 {{SCOTUS-termlist-end|Rehnquist|Stevens|O'Connor|Scalia|Kennedy|Souter|Thomas|Ginsburg|Breyer}}
 
