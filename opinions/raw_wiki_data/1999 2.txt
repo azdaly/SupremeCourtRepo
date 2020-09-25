@@ -1,0 +1,1455 @@
+==Table key==
+{{SCOTUStablekey}}
+{{SCOTUS-termlist-start|Rehnquist|Stevens|O'Connor|Scalia|Kennedy|Souter|Thomas|Ginsburg|Breyer}}
+{{SCOTUS-termlist-entry
+ |#=1
+ |case=Brancato v. Gunn
+ |volume=528
+ |page=1
+ |argue-date=
+ |decision-date=October 12, 1999
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=2
+ |case=Antonelli v. Caridine
+ |volume=528
+ |page=3
+ |argue-date=
+ |decision-date=October 12, 1999
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=3
+ |case=Judd v. United States Dist. Court for Western Dist. of Tex.
+ |volume=528
+ |page=5
+ |argue-date=
+ |decision-date=October 12, 1999
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=4
+ |case=Dempsey v. Martin
+ |volume=528
+ |page=7
+ |argue-date=
+ |decision-date=October 12, 1999
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=5
+ |case=Prunty v. Brooks
+ |volume=528
+ |page=9
+ |argue-date=
+ |decision-date=October 12, 1999
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=6
+ |case=Flippo v. West Virginia
+ |volume=528
+ |page=11
+ |argue-date=
+ |decision-date=October 18, 1999
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=7
+ |case=In re Bauer
+ |volume=528
+ |page=16
+ |argue-date=
+ |decision-date=October 18, 1999
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=8
+ |case=Texas v. Lesage
+ |volume=528
+ |page=18
+ |argue-date=
+ |decision-date=November 29, 1999
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=9
+ |case-article=Fiore v. White (1999)
+ |case-display=Fiore v. White
+ |volume=528
+ |page=23
+ |argue-date=October 12, 1999
+ |decision-date=November 30, 1999
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=majority   |justice9-sortcode=1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=10
+ |case=Los Angeles Police Dept. v. United Reporting Publishing Corp.
+ |volume=528
+ |page=32
+ |argue-date=October 13, 1999
+ |decision-date=December 7, 1999
+ |justice1-opinion1=majority   |justice1-sortcode=1 <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=joinmajority |justice3-opinion2=joinconcurrence |justice3-sortcode=J1J2 <!--O'Connor-->
+ |justice4-opinion1=concurrence |justice4-opinion2=joinmajority |justice4-sortcode=2J1 <!--Scalia-->
+ |justice5-opinion1=joindissent  |justice5-sortcode=J4 <!--Kennedy-->
+ |justice6-opinion1=joinmajority |justice6-opinion2=joinconcurrence  |justice6-sortcode=J1J2 <!--Souter-->
+ |justice7-opinion1=joinmajority |justice7-opinion2=joinconcurrence  |justice7-sortcode=J1J2 <!--Thomas-->
+ |justice8-opinion1=concurrence |justice8-opinion2=joinmajority |justice8-sortcode=2J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=joinconcurrence  |justice9-sortcode=J1J2 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=11
+ |case=Drye v. United States
+ |volume=528
+ |page=49
+ |argue-date=November 8, 1999
+ |decision-date=December 7, 1999
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=majority  |justice8-sortcode=1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=12
+ |case=Kimel v. Florida Board of Regents
+ |volume=528
+ |page=62
+ |argue-date=October 13, 1999
+ |decision-date=January 11, 2000
+ |justice1-opinion1=partjoinmajority   |justice1-sortcode=J1X <!--Rehnquist-->
+ |justice2-opinion1=concurrencedissent |justice2-opinion2=partjoinmajority |justice2-sortcode=3J1X <!--Stevens-->
+ |justice3-opinion1=majority  |justice3-sortcode=1 <!--O'Connor-->
+ |justice4-opinion1=partjoinmajority  |justice4-sortcode=J1X <!--Scalia-->
+ |justice5-opinion1=partjoinmajority |justice5-opinion2=joinconcurrencedissent |justice5-sortcode=J1XJ3 <!--Kennedy-->
+ |justice6-opinion1=partjoinmajority |justice6-opinion2=joinconcurrencedissent  |justice6-sortcode=J1XJ3 <!--Souter-->
+ |justice7-opinion1=concurrencedissent |justice7-opinion2=partjoinmajority  |justice7-sortcode=3J1X <!--Thomas-->
+ |justice8-opinion1=partjoinmajority |justice8-opinion2=joinconcurrencedissent |justice8-sortcode=J1XJ3 <!--Ginsburg-->
+ |justice9-opinion1=partjoinmajority |justice9-opinion2=joinconcurrencedissent  |justice9-sortcode=J1XJ3 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=13
+ |case=New York v. Hill
+ |volume=528
+ |page=110
+ |argue-date=November 2, 1999
+ |decision-date=January 11, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=majority  |justice4-sortcode=1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=14
+ |case=Illinois v. Wardlow
+ |volume=528
+ |page=119
+ |argue-date=November 2, 1999
+ |decision-date=January 12, 2000
+ |justice1-opinion1=majority   |justice1-sortcode=1 <!--Rehnquist-->
+ |justice2-opinion1=concurrencedissent  |justice2-sortcode=3 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinconcurrencedissent   |justice6-sortcode=J3 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinconcurrencedissent  |justice8-sortcode=J3 <!--Ginsburg-->
+ |justice9-opinion1=joinconcurrencedissent   |justice9-sortcode=J3 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=15
+ |case=Reno v. Condon
+ |volume=528
+ |page=141
+ |argue-date=November 10, 1999
+ |decision-date=January 12, 2000
+ |justice1-opinion1=majority   |justice1-sortcode=1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=16
+ |case=Martinez v. Court of Appeal of California, Fourth Appellate District
+ |volume=528
+ |page=152
+ |argue-date=November 9, 1999
+ |decision-date=January 12, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=majority  |justice2-sortcode=1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=concurrence  |justice4-sortcode=2 <!--Scalia-->
+ |justice5-opinion1=concurrence |justice5-opinion2=joinmajority |justice5-sortcode=2J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=concurrence |justice9-opinion2=joinmajority  |justice9-sortcode=2J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=17
+ |case=Friends of the Earth, Inc. v. Laidlaw Environmental Services, Inc.
+ |volume=528
+ |page=167
+ |argue-date=October 12, 1999
+ |decision-date=January 12, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=concurrence |justice2-opinion2=joinmajority |justice2-sortcode=2J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=dissent  |justice4-sortcode=4 <!--Scalia-->
+ |justice5-opinion1=concurrence |justice5-opinion2=joinmajority |justice5-sortcode=2J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joindissent   |justice7-sortcode=J4 <!--Thomas-->
+ |justice8-opinion1=majority  |justice8-sortcode=1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=18
+ |case=Adarand Constructors, Inc. v. Slater
+ |volume=528
+ |page=216
+ |argue-date=
+ |decision-date=January 12, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=19
+ |case=Weeks v. Angelone
+ |volume=528
+ |page=225
+ |argue-date=December 6, 1999
+ |decision-date=January 19, 2000
+ |justice1-opinion1=majority   |justice1-sortcode=1 <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=partjoindissent   |justice6-sortcode=J4X <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
+ |justice9-opinion1=joindissent   |justice9-sortcode=J4 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=20
+ |case=Gutierrez v. Ada
+ |volume=528
+ |page=250
+ |argue-date=December 6, 1999
+ |decision-date=January 19, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=majority   |justice6-sortcode=1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=21
+ |case=Smith v. Robbins
+ |volume=528
+ |page=259
+ |argue-date=October 5, 1999
+ |decision-date=January 19, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=dissent |justice2-opinion2=joindissent |justice2-sortcode=4J4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=dissent   |justice6-sortcode=4 <!--Souter-->
+ |justice7-opinion1=majority   |justice7-sortcode=1 <!--Thomas-->
+ |justice8-opinion1=joindissent |justice8-opinion2=joindissent |justice8-sortcode=J4J4 <!--Ginsburg-->
+ |justice9-opinion1=joindissent   |justice9-sortcode=J4 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=22
+ |case=United States v. Martinez-Salazar
+ |volume=528
+ |page=304
+ |argue-date=November 29, 1999
+ |decision-date=January 19, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=concurrence  |justice4-sortcode=2 <!--Scalia-->
+ |justice5-opinion1=joinconcurrence  |justice5-sortcode=J2 <!--Kennedy-->
+ |justice6-opinion1=concurrence |justice6-opinion2=joinmajority  |justice6-sortcode=2J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=majority  |justice8-sortcode=1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=23
+ |case=Reno v. Bossier Parish School Bd.
+ |volume=528
+ |page=320
+ |argue-date=October 6, 1999
+ |decision-date=January 24, 2000
+ |justice1-opinion1=partjoinmajority   |justice1-sortcode=J1X <!--Rehnquist-->
+ |justice2-opinion1=dissent |justice2-opinion2=joinconcurrencedissent |justice2-sortcode=4J3 <!--Stevens-->
+ |justice3-opinion1=partjoinmajority  |justice3-sortcode=J1X <!--O'Connor-->
+ |justice4-opinion1=majority  |justice4-sortcode=1 <!--Scalia-->
+ |justice5-opinion1=partjoinmajority  |justice5-sortcode=J1X <!--Kennedy-->
+ |justice6-opinion1=concurrencedissent   |justice6-sortcode=3 <!--Souter-->
+ |justice7-opinion1=concurrence |justice7-opinion2=partjoinmajority  |justice7-sortcode=2J1X <!--Thomas-->
+ |justice8-opinion1=joindissent |justice8-opinion2=joinconcurrencedissent |justice8-sortcode=J4J3 <!--Ginsburg-->
+ |justice9-opinion1=dissent |justice9-opinion2=joinconcurrencedissent  |justice9-sortcode=4J3 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=24
+ |case=Nixon v. Shrink Missouri Government PAC
+ |volume=528
+ |page=377
+ |argue-date=October 5, 1999
+ |decision-date=January 24, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=concurrence |justice2-opinion2=joinmajority |justice2-sortcode=2J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joindissent  |justice4-sortcode=J4 <!--Scalia-->
+ |justice5-opinion1=dissent  |justice5-sortcode=4 <!--Kennedy-->
+ |justice6-opinion1=majority   |justice6-sortcode=1 <!--Souter-->
+ |justice7-opinion1=dissent   |justice7-sortcode=4 <!--Thomas-->
+ |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence |justice8-sortcode=J1J2 <!--Ginsburg-->
+ |justice9-opinion1=concurrence |justice9-opinion2=joinmajority  |justice9-sortcode=2J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=25
+ |case=Baral v. United States
+ |volume=528
+ |page=431
+ |argue-date=January 18, 2000
+ |decision-date=February 22, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=majority   |justice7-sortcode=1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=26
+ |case=Weisgram v. Marley Co.
+ |volume=528
+ |page=440
+ |argue-date=January 18, 2000
+ |decision-date=February 22, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=majority  |justice8-sortcode=1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=27
+ |case=Hunt-Wesson, Inc. v. Franchise Tax Board of California
+ |volume=528
+ |page=458
+ |argue-date=January 12, 2000
+ |decision-date=February 22, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=majority   |justice9-sortcode=1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=28
+ |case=Roe v. Flores-Ortega
+ |volume=528
+ |page=470
+ |argue-date=November 1, 1999
+ |decision-date=February 23, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=partjoinmajority |justice2-opinion2=joinconcurrencedissent |justice2-sortcode=J1XJ3 <!--Stevens-->
+ |justice3-opinion1=majority  |justice3-sortcode=1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=concurrencedissent |justice6-opinion2=partjoinmajority  |justice6-sortcode=3J1X <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=concurrencedissent |justice8-opinion2=partjoinmajority |justice8-opinion3=joinconcurrencedissent|justice8-sortcode=3J1XJ3 <!--Ginsburg-->
+ |justice9-opinion1=concurrence |justice9-opinion2=joinmajority  |justice9-sortcode=2J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=29
+ |case=Rice v. Cayetano
+ |volume=528
+ |page=495
+ |argue-date=October 6, 1999
+ |decision-date=February 23, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=majority  |justice5-sortcode=1 <!--Kennedy-->
+ |justice6-opinion1=joinconcurrence   |justice6-sortcode=J2 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=dissent |justice8-opinion2=partjoindissent |justice8-sortcode=4J4X <!--Ginsburg-->
+ |justice9-opinion1=concurrence   |justice9-sortcode=2 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=30
+ |case=Rotella v. Wood
+ |volume=528
+ |page=549
+ |argue-date=November 3, 1999
+ |decision-date=February 23, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=majority   |justice6-sortcode=1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=31
+ |case=Village of Willowbrook v. Olech
+ |volume=528
+ |page=562
+ |argue-date=January 10, 2000
+ |decision-date=February 23, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=concurrence |justice9-opinion2=joinmajority  |justice9-sortcode=2J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=32
+ |case=Shalala v. Illinois Council on Long Term Care, Inc.
+ |volume=529
+ |page=1
+ |argue-date=November 08, 1999
+ |decision-date=February 29, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=dissent |justice2-opinion2=joindissent |justice2-sortcode=4J4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=dissent |justice4-opinion2=partjoindissent |justice4-sortcode=4J4X <!--Scalia-->
+ |justice5-opinion1=joindissent  |justice5-sortcode=J4 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=dissent   |justice7-sortcode=4 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=majority   |justice9-sortcode=1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=33
+ |case-article=United States v. Johnson (2000)
+ |case-display=United States v. Johnson
+ |volume=529
+ |page=53
+ |argue-date=December 8, 1999
+ |decision-date=March 1, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=majority  |justice5-sortcode=1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=34
+ |case=Portuondo v. Agard
+ |volume=529
+ |page=61
+ |argue-date=November 1, 1999
+ |decision-date=March 6, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=concurrence  |justice2-sortcode=2 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=majority  |justice4-sortcode=1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joindissent   |justice6-sortcode=J4 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=dissent  |justice8-sortcode=4 <!--Ginsburg-->
+ |justice9-opinion1=joinconcurrence   |justice9-sortcode=J2 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=35
+ |case=United States v. Locke
+ |volume=529
+ |page=89
+ |argue-date=December 7, 1999
+ |decision-date=March 6, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=majority  |justice5-sortcode=1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=36
+ |case=FDA v. Brown & Williamson Tobacco Corp.
+ |volume=529
+ |page=120
+ |argue-date=December 1, 1999
+ |decision-date=March 21, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joindissent  |justice2-sortcode=J4 <!--Stevens-->
+ |justice3-opinion1=majority  |justice3-sortcode=1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joindissent   |justice6-sortcode=J4 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
+ |justice9-opinion1=dissent   |justice9-sortcode=4 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=37
+ |case=Cortez Byrd Chips, Inc. v. Bill Harbert Construction Co.
+ |volume=529
+ |page=193
+ |argue-date=January 10, 2000
+ |decision-date=March 21, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=majority   |justice6-sortcode=1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=38
+ |case=Wal-Mart Stores, Inc. v. Samara Brothers, Inc.
+ |volume=529
+ |page=205
+ |argue-date=January 19, 2000
+ |decision-date=March 22, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=majority  |justice4-sortcode=1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=39
+ |case=Board of Regents of the University of Wisconsin System v. Southworth
+ |volume=529
+ |page=217
+ |argue-date=November 9, 1999
+ |decision-date=March 22, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinconcurrence  |justice2-sortcode=J2 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=majority  |justice5-sortcode=1 <!--Kennedy-->
+ |justice6-opinion1=concurrence   |justice6-sortcode=2 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinconcurrence   |justice9-sortcode=J2 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=40
+ |case=Garner v. Jones
+ |volume=529
+ |page=244
+ |argue-date=January 11, 2000
+ |decision-date=March 28, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joindissent  |justice2-sortcode=J4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=concurrence  |justice4-sortcode=2 <!--Scalia-->
+ |justice5-opinion1=majority  |justice5-sortcode=1 <!--Kennedy-->
+ |justice6-opinion1=dissent   |justice6-sortcode=4 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=41
+ |case=Florida v. J. L.
+ |volume=529
+ |page=266
+ |argue-date=February 29, 2000
+ |decision-date=March 28, 2000
+ |justice1-opinion1=joinmajority |justice1-opinion2=joinconcurrence  |justice1-sortcode=J1J2 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=concurrence |justice5-opinion2=joinmajority |justice5-sortcode=2J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=majority  |justice8-sortcode=1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=42
+ |case=City of Erie v. Pap's A. M.
+ |volume=529
+ |page=277
+ |argue-date=November 10, 1999
+ |decision-date=March 29, 2000
+ |justice1-opinion1=joinmajority |justice1-opinion2=joinplurality  |justice1-sortcode=J1J1X <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=majority |justice3-opinion2=plurality |justice3-sortcode=11X <!--O'Connor-->
+ |justice4-opinion1=concurrence  |justice4-sortcode=2 <!--Scalia-->
+ |justice5-opinion1=joinmajority |justice5-opinion2=joinplurality |justice5-sortcode=J1J1X <!--Kennedy-->
+ |justice6-opinion1=concurrencedissent |justice6-opinion2=joinmajority  |justice6-sortcode=3J1 <!--Souter-->
+ |justice7-opinion1=joinconcurrence   |justice7-sortcode=J2 <!--Thomas-->
+ |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=joinplurality  |justice9-sortcode=J1J1X <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=43
+ |case=Free v. Abbott Laboratories, Inc.
+ |volume=529
+ |page=333
+ |argue-date=March 27, 2000
+ |decision-date=April 3, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=didnotparticipate  |justice3-sortcode=X <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=44
+ |case-article=Bond v. United States (2000)
+ |case-display=Bond v. United States
+ |volume=529
+ |page=334
+ |argue-date=February 29, 2000
+ |decision-date=April 17, 2000
+ |justice1-opinion1=majority   |justice1-sortcode=1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joindissent  |justice4-sortcode=J4 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=dissent   |justice9-sortcode=4 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=45
+ |case=Norfolk Southern Railroad Co. v. Shanklin
+ |volume=529
+ |page=344
+ |argue-date=March 1, 2000
+ |decision-date=April 17, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joindissent  |justice2-sortcode=J4 <!--Stevens-->
+ |justice3-opinion1=majority  |justice3-sortcode=1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=dissent  |justice8-sortcode=4 <!--Ginsburg-->
+ |justice9-opinion1=concurrence |justice9-opinion2=joinmajority  |justice9-sortcode=2J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=46
+ |case=Williams v. Taylor
+ |volume=529
+ |page=362
+ |argue-date=October 4, 1999
+ |decision-date=April 18, 2000
+ |justice1-opinion1=concurrencedissent |justice1-opinion2=joinmajority  |justice1-sortcode=3J1 <!--Rehnquist-->
+ |justice2-opinion1=majority |justice2-opinion2=plurality |justice2-sortcode=11X <!--Stevens-->
+ |justice3-opinion1=concurrence |justice3-opinion2=joinmajority |justice3-sortcode=2J1 <!--O'Connor-->
+ |justice4-opinion1=partjoinmajority |justice4-opinion2=joinconcurrencedissent |justice4-sortcode=J1XJ3 <!--Scalia-->
+ |justice5-opinion1=joinconcurrence |justice5-opinion2=joinmajority |justice5-sortcode=J2J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority |justice6-opinion2=joinplurality  |justice6-sortcode=J1J1X <!--Souter-->
+ |justice7-opinion1=joinmajority |justice7-opinion2=joinconcurrencedissent  |justice7-sortcode=J1J3 <!--Thomas-->
+ |justice8-opinion1=joinmajority |justice8-opinion2=joinplurality |justice8-sortcode=J1J1X <!--Ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=joinplurality  |justice9-sortcode=J1J1X <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=47
+ |case=Williams v. Taylor
+ |volume=529
+ |page=420
+ |argue-date=February 28, 2000
+ |decision-date=April 18, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=majority  |justice5-sortcode=1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=48
+ |case=Edwards v. Carpenter
+ |volume=529
+ |page=446
+ |argue-date=February 28, 2000
+ |decision-date=April 25, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinconcurrence  |justice2-sortcode=J2 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=majority  |justice4-sortcode=1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=concurrence   |justice9-sortcode=2 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=49
+ |case=Nelson v. Adams USA, Inc.
+ |volume=529
+ |page=460
+ |argue-date=March 27, 2000
+ |decision-date=April 25, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=majority  |justice8-sortcode=1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=50
+ |case=Slack v. McDaniel
+ |volume=529
+ |page=473
+ |argue-date=March 29, 2000
+ |decision-date=April 26, 2000
+ |justice1-opinion1=partjoinmajority   |justice1-sortcode=J1X <!--Rehnquist-->
+ |justice2-opinion1=concurrence |justice2-opinion2=joinmajority |justice2-sortcode=2J1 <!--Stevens-->
+ |justice3-opinion1=partjoinmajority  |justice3-sortcode=J1X <!--O'Connor-->
+ |justice4-opinion1=concurrencedissent |justice4-opinion2=partjoinmajority |justice4-sortcode=3J1X <!--Scalia-->
+ |justice5-opinion1=majority  |justice5-sortcode=1 <!--Kennedy-->
+ |justice6-opinion1=partjoinmajority |justice6-opinion2=joinconcurrence  |justice6-sortcode=J1XJ2 <!--Souter-->
+ |justice7-opinion1=partjoinmajority |justice7-opinion2=joinconcurrencedissent  |justice7-sortcode=J1XJ3 <!--Thomas-->
+ |justice8-opinion1=partjoinmajority  |justice8-sortcode=J1X <!--Ginsburg-->
+ |justice9-opinion1=partjoinmajority |justice9-opinion2=joinconcurrence  |justice9-sortcode=J1XJ2 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=51
+ |case=Beck v. Prupis
+ |volume=529
+ |page=494
+ |argue-date=November 3, 1999
+ |decision-date=April 26, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joindissent   |justice6-sortcode=J4 <!--Souter-->
+ |justice7-opinion1=majority   |justice7-sortcode=1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=52
+ |case=Carmell v. Texas
+ |volume=529
+ |page=513
+ |argue-date=November 30, 1999
+ |decision-date=May 1, 2000
+ |justice1-opinion1=joindissent   |justice1-sortcode=J4 <!--Rehnquist-->
+ |justice2-opinion1=majority  |justice2-sortcode=1 <!--Stevens-->
+ |justice3-opinion1=joindissent  |justice3-sortcode=J4 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joindissent  |justice5-sortcode=J4 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=dissent  |justice8-sortcode=4 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=53
+ |case=Christensen v. Harris County
+ |volume=529
+ |page=576
+ |argue-date=February 23, 2000
+ |decision-date=May 1, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=concurrence |justice4-opinion2=partjoinmajority |justice4-sortcode=2J1X <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=concurrence |justice6-opinion2=joinmajority  |justice6-sortcode=2J1 <!--Souter-->
+ |justice7-opinion1=majority   |justice7-sortcode=1 <!--Thomas-->
+ |justice8-opinion1=joindissent |justice8-opinion2=joindissent |justice8-sortcode=J4J4 <!--Ginsburg-->
+ |justice9-opinion1=dissent |justice9-opinion2=joindissent  |justice9-sortcode=4J4 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=54
+ |case=United States v. Morrison
+ |volume=529
+ |page=598
+ |argue-date=January 11, 2000
+ |decision-date=May 15, 2000
+ |justice1-opinion1=majority   |justice1-sortcode=1 <!--Rehnquist-->
+ |justice2-opinion1=joindissent |justice2-opinion2=joindissent |justice2-sortcode=J4J4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=dissent |justice6-opinion2=partjoindissent  |justice6-sortcode=4J4X <!--Souter-->
+ |justice7-opinion1=concurrence |justice7-opinion2=joinmajority  |justice7-sortcode=2J1 <!--Thomas-->
+ |justice8-opinion1=joindissent |justice8-opinion2=partjoindissent |justice8-sortcode=J4J4X <!--Ginsburg-->
+ |justice9-opinion1=dissent |justice9-opinion2=joindissent  |justice9-sortcode=4J4 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=55
+ |case=Fischer v. United States
+ |volume=529
+ |page=667
+ |argue-date=February 22, 2000
+ |decision-date=May 15, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joindissent  |justice4-sortcode=J4 <!--Scalia-->
+ |justice5-opinion1=majority  |justice5-sortcode=1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=dissent   |justice7-sortcode=4 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=56
+ |case-article=Johnson v. United States (2000)
+ |case-display=Johnson v. United States
+ |volume=529
+ |page=694
+ |argue-date=February 22, 2000
+ |decision-date=May 15, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=dissent  |justice4-sortcode=4 <!--Scalia-->
+ |justice5-opinion1=concurrence |justice5-opinion2=partjoinmajority |justice5-sortcode=2J1X <!--Kennedy-->
+ |justice6-opinion1=majority   |justice6-sortcode=1 <!--Souter-->
+ |justice7-opinion1=concurrence   |justice7-sortcode=2 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=57
+ |case=Public Lands Council v. Babbitt
+ |volume=529
+ |page=728
+ |argue-date=March 1, 2000
+ |decision-date=May 15, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=concurrence |justice3-opinion2=joinmajority |justice3-sortcode=2J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority |justice7-opinion2=joinconcurrence  |justice7-sortcode=J1J2 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=majority   |justice9-sortcode=1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=58
+ |case=Ohler v. United States
+ |volume=529
+ |page=753
+ |argue-date=March 20, 2000
+ |decision-date=May 22, 2000
+ |justice1-opinion1=majority   |justice1-sortcode=1 <!--Rehnquist-->
+ |justice2-opinion1=joindissent  |justice2-sortcode=J4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=dissent   |justice6-sortcode=4 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
+ |justice9-opinion1=joindissent   |justice9-sortcode=J4 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=59
+ |case=Vermont Agency of Natural Resources v. United States ex rel. Stevens
+ |volume=529
+ |page=765
+ |argue-date=November 29, 1999
+ |decision-date=May 22, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=majority  |justice4-sortcode=1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joindissent   |justice6-sortcode=J4 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=concurrence  |justice8-sortcode=2 <!--Ginsburg-->
+ |justice9-opinion1=concurrence |justice9-opinion2=joinmajority |justice9-opinion3=joinconcurrence |justice9-sortcode=2J1J2 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=60
+ |case=United States v. Playboy Entertainment Group, Inc.
+ |volume=529
+ |page=803
+ |argue-date=November 30, 1999
+ |decision-date=May 22, 2000
+ |justice1-opinion1=joindissent   |justice1-sortcode=J4 <!--Rehnquist-->
+ |justice2-opinion1=concurrence |justice2-opinion2=joinmajority |justice2-sortcode=2J1 <!--Stevens-->
+ |justice3-opinion1=joindissent  |justice3-sortcode=J4 <!--O'Connor-->
+ |justice4-opinion1=dissent |justice4-opinion2=joindissent |justice4-sortcode=4J4 <!--Scalia-->
+ |justice5-opinion1=majority  |justice5-sortcode=1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=concurrence |justice7-opinion2=joinmajority  |justice7-sortcode=2J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=dissent   |justice9-sortcode=4 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=61
+ |case-article=Jones v. United States (2000)
+ |case-display=Jones v. United States
+ |volume=529
+ |page=848
+ |argue-date=March 21, 2000
+ |decision-date=May 22, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=concurrence |justice2-opinion2=joinmajority |justice2-sortcode=2J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority |justice4-opinion2=joinconcurrence |justice4-sortcode=J1J2 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=concurrence |justice7-opinion2=joinmajority |justice7-opinion3=joinconcurrence |justice7-sortcode=2J1J2 <!--Thomas-->
+ |justice8-opinion1=majority  |justice8-sortcode=1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=62
+ |case=Geier v. American Honda Motor Co.
+ |volume=529
+ |page=861
+ |argue-date=December 7, 1999
+ |decision-date=May 22, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joindissent   |justice6-sortcode=J4 <!--Souter-->
+ |justice7-opinion1=joindissent   |justice7-sortcode=J4 <!--Thomas-->
+ |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
+ |justice9-opinion1=majority   |justice9-sortcode=1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=63
+ |case=Hartford Underwriters Ins. Co. v. Union Planters Bank, N.A.
+ |volume=530
+ |page=1
+ |argue-date=March 20, 2000
+ |decision-date=May 30, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=majority  |justice4-sortcode=1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=64
+ |case=Raleigh v. Illinois Dept. of Revenue
+ |volume=530
+ |page=15
+ |argue-date=April 17, 2000
+ |decision-date=May 30, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=majority   |justice6-sortcode=1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=65
+ |case=United States v. Hubbell
+ |volume=530
+ |page=27
+ |argue-date=February 22, 2000
+ |decision-date=June 5, 2000
+ |justice1-opinion1=dissent   |justice1-sortcode=4 <!--Rehnquist-->
+ |justice2-opinion1=majority  |justice2-sortcode=1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority |justice4-opinion2=joinconcurrence |justice4-sortcode=J1J2 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=concurrence |justice7-opinion2=joinmajority  |justice7-sortcode=2J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=66
+ |case=Troxel v. Granville
+ |volume=530
+ |page=57
+ |argue-date=January 12, 2000
+ |decision-date=June 5, 2000
+ |justice1-opinion1=joinplurality   |justice1-sortcode=J1X <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=plurality  |justice3-sortcode=1X <!--O'Connor-->
+ |justice4-opinion1=dissent  |justice4-sortcode=4 <!--Scalia-->
+ |justice5-opinion1=dissent  |justice5-sortcode=4 <!--Kennedy-->
+ |justice6-opinion1=concurrence   |justice6-sortcode=2 <!--Souter-->
+ |justice7-opinion1=concurrence   |justice7-sortcode=2 <!--Thomas-->
+ |justice8-opinion1=joinplurality  |justice8-sortcode=J1X <!--Ginsburg-->
+ |justice9-opinion1=joinplurality   |justice9-sortcode=J1X <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=67
+ |case=Sims v. Apfel
+ |volume=530
+ |page=103
+ |argue-date=March 28, 2000
+ |decision-date=June 5, 2000
+ |justice1-opinion1=joindissent   |justice1-sortcode=J4 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority |justice2-opinion2=joinplurality |justice2-sortcode=J1J1X <!--Stevens-->
+ |justice3-opinion1=concurrence |justice3-opinion2=joinmajority |justice3-sortcode=2J1 <!--O'Connor-->
+ |justice4-opinion1=joindissent  |justice4-sortcode=J4 <!--Scalia-->
+ |justice5-opinion1=joindissent  |justice5-sortcode=J4 <!--Kennedy-->
+ |justice6-opinion1=joinmajority |justice6-opinion2=joinplurality  |justice6-sortcode=J1J1X <!--Souter-->
+ |justice7-opinion1=majority |justice7-opinion2=plurality  |justice7-sortcode=11X <!--Thomas-->
+ |justice8-opinion1=joinmajority |justice8-opinion2=joinplurality |justice8-sortcode=J1J1X <!--Ginsburg-->
+ |justice9-opinion1=dissent   |justice9-sortcode=4 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=68
+ |case=Castillo v. United States
+ |volume=530
+ |page=120
+ |argue-date=April 24, 2000
+ |decision-date=June 5, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=partjoinmajority  |justice4-sortcode=J1X <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=majority   |justice9-sortcode=1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=69
+ |case=Reeves v. Sanderson Plumbing Products, Inc.
+ |volume=530
+ |page=133
+ |argue-date=March 21, 2000
+ |decision-date=June 12, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=majority  |justice3-sortcode=1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=concurrence |justice8-opinion2=joinmajority |justice8-sortcode=2J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=70
+ |case=Ramdass v. Angelone
+ |volume=530
+ |page=156
+ |argue-date=April 18, 2000
+ |decision-date=June 12, 2000
+ |justice1-opinion1=joinplurality   |justice1-sortcode=J1X <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=concurrence  |justice3-sortcode=2 <!--O'Connor-->
+ |justice4-opinion1=joinplurality  |justice4-sortcode=J1X <!--Scalia-->
+ |justice5-opinion1=plurality  |justice5-sortcode=1X <!--Kennedy-->
+ |justice6-opinion1=joindissent   |justice6-sortcode=J4 <!--Souter-->
+ |justice7-opinion1=joinplurality   |justice7-sortcode=J1X <!--Thomas-->
+ |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
+ |justice9-opinion1=joindissent   |justice9-sortcode=J4 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=71
+ |case=Pegram v. Herdrich
+ |volume=530
+ |page=211
+ |argue-date=February 23, 2000
+ |decision-date=June 12, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=majority   |justice6-sortcode=1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=72
+ |case=Harris Trust and Savings Bank v. Salomon Smith Barney Inc.
+ |volume=530
+ |page=238
+ |argue-date=April 17, 2000
+ |decision-date=June 12, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=majority   |justice7-sortcode=1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=73
+ |case=Carter v. United States
+ |volume=530
+ |page=255
+ |argue-date=April 19, 2000
+ |decision-date=June 12, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joindissent  |justice2-sortcode=J4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joindissent   |justice6-sortcode=J4 <!--Souter-->
+ |justice7-opinion1=majority   |justice7-sortcode=1 <!--Thomas-->
+ |justice8-opinion1=dissent  |justice8-sortcode=4 <!--Ginsburg-->
+ |justice9-opinion1=joindissent   |justice9-sortcode=J4 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=74
+ |case=Santa Fe Independent School District v. Doe
+ |volume=530
+ |page=290
+ |argue-date=March 29, 2000
+ |decision-date=June 19, 2000
+ |justice1-opinion1=dissent   |justice1-sortcode=4 <!--Rehnquist-->
+ |justice2-opinion1=majority  |justice2-sortcode=1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joindissent  |justice4-sortcode=J4 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joindissent   |justice7-sortcode=J4 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=75
+ |case=Miller v. French
+ |volume=530
+ |page=327
+ |argue-date=April 18, 2000
+ |decision-date=June 19, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joindissent  |justice2-sortcode=J4 <!--Stevens-->
+ |justice3-opinion1=majority  |justice3-sortcode=1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=concurrencedissent |justice6-opinion2=partjoinmajority  |justice6-sortcode=3J1X <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=partjoinmajority |justice8-opinion2=joinconcurrencedissent |justice8-sortcode=J1XJ3 <!--Ginsburg-->
+ |justice9-opinion1=dissent   |justice9-sortcode=4 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=76
+ |case=Crosby v. National Foreign Trade Council
+ |volume=530
+ |page=363
+ |argue-date=March 22, 2000
+ |decision-date=June 19, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=concurrence  |justice4-sortcode=2 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=majority   |justice6-sortcode=1 <!--Souter-->
+ |justice7-opinion1=joinconcurrence   |justice7-sortcode=J2 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=77
+ |case=Arizona v. California
+ |volume=530
+ |page=392
+ |argue-date=April 25, 2000
+ |decision-date=June 19, 2000
+ |justice1-opinion1=concurrencedissent   |justice1-sortcode=3 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinconcurrencedissent  |justice3-sortcode=J3 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinconcurrencedissent   |justice7-sortcode=J3 <!--Thomas-->
+ |justice8-opinion1=majority  |justice8-sortcode=1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=78
+ |case=Dickerson v. United States
+ |volume=530
+ |page=428
+ |argue-date=April 19, 2000
+ |decision-date=June 26, 2000
+ |justice1-opinion1=majority   |justice1-sortcode=1 <!--Rehnquist-->
+ |justice2-opinion1=joinmajority  |justice2-sortcode=J1 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=dissent  |justice4-sortcode=4 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joindissent   |justice7-sortcode=J4 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=79
+ |case=Apprendi v. New Jersey
+ |volume=530
+ |page=466
+ |argue-date=March 28, 2000
+ |decision-date=June 26, 2000
+ |justice1-opinion1=joindissent |justice1-opinion2=joindissent  |justice1-sortcode=J4J4 <!--Rehnquist-->
+ |justice2-opinion1=majority  |justice2-sortcode=1 <!--Stevens-->
+ |justice3-opinion1=dissent  |justice3-sortcode=4 <!--O'Connor-->
+ |justice4-opinion1=concurrence |justice4-opinion2=joinmajority |justice4-opinion3=partjoinconcurrence|justice4-sortcode=2J1J2X <!--Scalia-->
+ |justice5-opinion1=joindissent  |justice5-sortcode=J4 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=concurrence |justice7-opinion2=joinmajority  |justice7-sortcode=2J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=dissent |justice9-opinion2=joindissent  |justice9-sortcode=4J4 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=80
+ |case=California Democratic Party v. Jones
+ |volume=530
+ |page=567
+ |argue-date=April 24, 2000
+ |decision-date=June 26, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=majority  |justice4-sortcode=1 <!--Scalia-->
+ |justice5-opinion1=concurrence |justice5-opinion2=joinmajority |justice5-sortcode=2J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority   |justice9-sortcode=J1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=81
+ |case=Mobil Oil Exploration & Producing Southeast, Inc. v. United States
+ |volume=530
+ |page=604
+ |argue-date=March 22, 2000
+ |decision-date=June 26, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joinmajority  |justice8-sortcode=J1 <!--Ginsburg-->
+ |justice9-opinion1=majority   |justice9-sortcode=1 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=82
+ |case=Boy Scouts of America v. Dale
+ |volume=530
+ |page=640
+ |argue-date=April 26, 2000
+ |decision-date=June 28, 2000
+ |justice1-opinion1=majority   |justice1-sortcode=1 <!--Rehnquist-->
+ |justice2-opinion1=dissent  |justice2-sortcode=4 <!--Stevens-->
+ |justice3-opinion1=joinmajority  |justice3-sortcode=J1 <!--O'Connor-->
+ |justice4-opinion1=joinmajority  |justice4-sortcode=J1 <!--Scalia-->
+ |justice5-opinion1=joinmajority  |justice5-sortcode=J1 <!--Kennedy-->
+ |justice6-opinion1=dissent |justice6-opinion2=joindissent  |justice6-sortcode=4J4 <!--Souter-->
+ |justice7-opinion1=joinmajority   |justice7-sortcode=J1 <!--Thomas-->
+ |justice8-opinion1=joindissent |justice8-opinion2=joindissent |justice8-sortcode=J4J4 <!--Ginsburg-->
+ |justice9-opinion1=joindissent |justice9-opinion2=joindissent  |justice9-sortcode=J4J4 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=83
+ |case=Hill v. Colorado
+ |volume=530
+ |page=703
+ |argue-date=January 19, 2000
+ |decision-date=June 28, 2000
+ |justice1-opinion1=joinmajority   |justice1-sortcode=J1 <!--Rehnquist-->
+ |justice2-opinion1=majority  |justice2-sortcode=1 <!--Stevens-->
+ |justice3-opinion1=joinmajority |justice3-opinion2=joinconcurrence |justice3-sortcode=J1J2 <!--O'Connor-->
+ |justice4-opinion1=dissent  |justice4-sortcode=4 <!--Scalia-->
+ |justice5-opinion1=dissent  |justice5-sortcode=4 <!--Kennedy-->
+ |justice6-opinion1=concurrence |justice6-opinion2=joinmajority  |justice6-sortcode=2J1 <!--Souter-->
+ |justice7-opinion1=joindissent   |justice7-sortcode=J4 <!--Thomas-->
+ |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence |justice8-sortcode=J1J2 <!--Ginsburg-->
+ |justice9-opinion1=joinmajority |justice9-opinion2=joinconcurrence  |justice9-sortcode=J1J2 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=84
+ |case=Mitchell v. Helms
+ |volume=530
+ |page=793
+ |argue-date=December 1, 1999
+ |decision-date=June 28, 2000
+ |justice1-opinion1=joinplurality   |justice1-sortcode=J1X <!--Rehnquist-->
+ |justice2-opinion1=joindissent  |justice2-sortcode=J4 <!--Stevens-->
+ |justice3-opinion1=concurrence  |justice3-sortcode=2 <!--O'Connor-->
+ |justice4-opinion1=joinplurality  |justice4-sortcode=J1X <!--Scalia-->
+ |justice5-opinion1=joinplurality  |justice5-sortcode=J1X <!--Kennedy-->
+ |justice6-opinion1=dissent   |justice6-sortcode=4 <!--Souter-->
+ |justice7-opinion1=plurality   |justice7-sortcode=1X <!--Thomas-->
+ |justice8-opinion1=joindissent  |justice8-sortcode=J4 <!--Ginsburg-->
+ |justice9-opinion1=joinconcurrence   |justice9-sortcode=J2 <!—Breyer-->
+}} 
+{{SCOTUS-termlist-entry
+ |#=85
+ |case=Stenberg v. Carhart
+ |volume=530
+ |page=914
+ |argue-date=April 25, 2000
+ |decision-date=June 28, 2000
+ |justice1-opinion1=dissent |justice1-opinion2=joindissent |justice1-opinion3=joindissent |justice1-sortcode=4J4J4 <!--Rehnquist-->
+ |justice2-opinion1=concurrence |justice2-opinion2=joinmajority |justice2-opinion3=joinconcurrence|justice2-sortcode=2J1J2 <!--Stevens-->
+ |justice3-opinion1=concurrence |justice3-opinion2=joinmajority |justice3-sortcode=2J1 <!--O'Connor-->
+ |justice4-opinion1=dissent |justice4-opinion2=joindissent |justice4-sortcode=4J4 <!--Scalia-->
+ |justice5-opinion1=dissent  |justice5-sortcode=4 <!--Kennedy-->
+ |justice6-opinion1=joinmajority   |justice6-sortcode=J1 <!--Souter-->
+ |justice7-opinion1=dissent   |justice7-sortcode=4 <!--Thomas-->
+ |justice8-opinion1=concurrence |justice8-opinion2=joinmajority |justice8-opinion3=joinconcurrence|justice8-sortcode=2J1J2 <!--Ginsburg-->
+ |justice9-opinion1=majority   |justice9-sortcode=1 <!—Breyer-->
+}}
+{{SCOTUS-termlist-end|Rehnquist|Stevens|O'Connor|Scalia|Kennedy|Souter|Thomas|Ginsburg|Breyer}}
+
