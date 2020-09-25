@@ -1,5 +1,4 @@
-
-pinions==
+==2018 term opinions==
 {{SCOTUS-termlist-start|Roberts|Thomas|Ginsburg|Breyer|Alito|Sotomayor|Kagan|Gorsuch|Kavanaugh}}
 {{SCOTUS-termlist-entry
   |#=1
@@ -16,7 +15,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--kavanagh-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=2
@@ -33,7 +32,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--kavanagh-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=3
@@ -50,7 +49,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=4
@@ -67,7 +66,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=5
@@ -84,7 +83,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=6
@@ -101,7 +100,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=7
@@ -118,7 +117,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=majority |justice9-sortcode=1<!--kavanagh-->
+  |justice9-opinion1=majority |justice9-sortcode=1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=8
@@ -135,7 +134,7 @@ pinions==
   |justice6-opinion1=dissent |justice6-sortcode=4<!--sotomayor-->
   |justice7-opinion1=joindissent |justice7-sortcode=J4<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=9
@@ -152,7 +151,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=majority |justice8-sortcode=1<!--gorsuch-->
-  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--kavanagh-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=10
@@ -169,7 +168,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=11
@@ -187,7 +186,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=joindissent |justice8-sortcode=J4<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=12
@@ -204,7 +203,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-opinion2=concurrence2 |justice8-sortcode=2J1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=13
@@ -221,7 +220,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=majority |justice8-sortcode=1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=14
@@ -238,7 +237,7 @@ pinions==
   |justice6-opinion1=concurrencewithoutopinion |justice6-sortcode=2X<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=15
@@ -545,7 +544,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=33
@@ -562,7 +561,7 @@ pinions==
   |justice6-opinion1=joindissent1 |justice6-opinion2=dissent3 |justice6-opinion3=partjoindissent4|justice6-sortcode=4J4<!--sotomayor-->
   |justice7-opinion1=dissent4 |justice7-sortcode=4<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=34
@@ -954,7 +953,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=joinconcurrence1 |justice8-opinion2=joinconcurrence2 |justice8-sortcode=J2J2<!--gorsuch-->
-  |justice9-opinion1=concurrence2 |justice9-sortcode=2<!--kavanagh-->
+  |justice9-opinion1=concurrence2 |justice9-sortcode=2<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=57
@@ -971,7 +970,7 @@ pinions==
   |justice6-opinion1=joindissent |justice6-sortcode=J4<!--sotomayor-->
   |justice7-opinion1=partjoinmajority |justice7-opinion2=joinconcurrence2 |justice7-opinion3=concurrence3 |justice7-sortcode=2J1XJ2<!--kagan-->
   |justice8-opinion1=concurrence4 |justice8-sortcode=2<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-opinion2=concurrence5 |justice9-sortcode=2J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-opinion2=concurrence5 |justice9-sortcode=2J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=58
@@ -988,7 +987,7 @@ pinions==
   |justice6-opinion1=majority |justice6-sortcode=1<!--sotomayor-->
   |justice7-opinion1=joindissent |justice7-sortcode=J4<!--kagan-->
   |justice8-opinion1=joindissent |justice8-sortcode=J4<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=59
@@ -1005,7 +1004,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=plurality |justice7-sortcode=1X<!--kagan-->
   |justice8-opinion1=dissent |justice8-sortcode=4<!--gorsuch-->
-  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--kavanagh-->
+  |justice9-opinion1=didnotparticipate |justice9-sortcode=X<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=60
@@ -1023,7 +1022,7 @@ pinions==
   |justice6-opinion1=joindissent |justice6-sortcode=J4<!--sotomayor-->
   |justice7-opinion1=dissent |justice7-sortcode=4<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=61
@@ -1040,7 +1039,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=62
@@ -1057,7 +1056,7 @@ pinions==
   |justice6-opinion1=majority |justice6-sortcode=1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-opinion2=joinconcurrence |justice8-sortcode=J1J2<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=63
@@ -1074,7 +1073,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=partjoindissent |justice8-sortcode=J4X<!--gorsuch-->
-  |justice9-opinion1=majority |justice9-sortcode=1<!--kavanagh-->
+  |justice9-opinion1=majority |justice9-sortcode=1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=64
@@ -1091,7 +1090,7 @@ pinions==
   |justice6-opinion1=joindissent |justice6-sortcode=J4<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=65
@@ -1108,7 +1107,7 @@ pinions==
   |justice6-opinion1=concurrencedissent3 |justice6-sortcode=3<!--sotomayor-->
   |justice7-opinion1=majority |justice7-sortcode=1<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=66
@@ -1125,7 +1124,7 @@ pinions==
   |justice6-opinion1=joinconcurrencedissent |justice6-sortcode=J3<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=majority |justice8-sortcode=1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=67
@@ -1143,7 +1142,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=majority |justice8-sortcode=1<!--gorsuch-->
-  |justice9-opinion1=dissent |justice9-sortcode=4<!--kavanagh-->
+  |justice9-opinion1=dissent |justice9-sortcode=4<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=68
@@ -1160,7 +1159,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=dissent |justice8-sortcode=4<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=69
@@ -1177,7 +1176,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=plurality |justice7-sortcode=1X<!--kagan-->
   |justice8-opinion1=concurrence2|justice8-sortcode=2<!--gorsuch-->
-  |justice9-opinion1=partjoinconcurrence2|justice9-opinion2=concurrence3|justice9-sortcode=2J2<!--kavanagh-->
+  |justice9-opinion1=partjoinconcurrence2|justice9-opinion2=concurrence3|justice9-sortcode=2J2<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=70
@@ -1194,7 +1193,7 @@ pinions==
   |justice6-opinion1=joinmajority |justice6-sortcode=J1<!--sotomayor-->
   |justice7-opinion1=joinmajority |justice7-sortcode=J1<!--kagan-->
   |justice8-opinion1=plurality |justice8-sortcode=1X<!--gorsuch-->
-  |justice9-opinion1=joindissent |justice9-sortcode=J4<!--kavanagh-->
+  |justice9-opinion1=joindissent |justice9-sortcode=J4<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=71
@@ -1211,7 +1210,7 @@ pinions==
   |justice6-opinion1=joindissent |justice6-sortcode=J4<!--sotomayor-->
   |justice7-opinion1=dissent |justice7-sortcode=4<!--kagan-->
   |justice8-opinion1=joinmajority |justice8-sortcode=J1<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=72
@@ -1228,7 +1227,7 @@ pinions==
   |justice6-opinion1=partjoinmajority |justice6-opinion2=joinconcurrencedissent2 |justice6-sortcode=J1XJ3<!--sotomayor-->
   |justice7-opinion1=partjoinmajority |justice7-opinion2=joinconcurrencedissent2 |justice7-sortcode=J1XJ3<!--kagan-->
   |justice8-opinion1=partjoinmajority |justice8-opinion2=joinconcurrencedissent1 |justice8-sortcode=J1XJ3<!--gorsuch-->
-  |justice9-opinion1=partjoinmajority |justice9-opinion2=joinconcurrencedissent1 |justice9-sortcode=J1XJ3<!--kavanagh-->
+  |justice9-opinion1=partjoinmajority |justice9-opinion2=joinconcurrencedissent1 |justice9-sortcode=J1XJ3<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-entry
   |#=73
@@ -1245,7 +1244,7 @@ pinions==
   |justice6-opinion1=dissent1 |justice6-sortcode=4<!--sotomayor-->
   |justice7-opinion1=joindissent1 |justice7-sortcode=J4<!--kagan-->
   |justice8-opinion1=dissent2 |justice8-sortcode=4<!--gorsuch-->
-  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanagh-->
+  |justice9-opinion1=joinmajority |justice9-sortcode=J1<!--kavanaugh-->
 }}
 {{SCOTUS-termlist-end|Roberts|Thomas|Ginsburg|Breyer|Alito|Sotomayor|Kagan|Gorsuch|Kavanaugh}}
 
