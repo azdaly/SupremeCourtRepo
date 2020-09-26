@@ -40,5 +40,7 @@ The breakdown is as follows:
  It is therefore possible for items to be in 1 and 4, in which case they will be
  settled as favorable, or 2 and 4, in which case they'll be settled as
  unfavorable. It is, however, impossible for items to be 1 and 2.
-  
+
+Additional stats can be found in ./additional_stats.  
+
  ## Before 1999
