@@ -1,55 +1,55 @@
-joinmajority majority	9090
-majority	1330
-dissent joindissent	1283
-dissent	901
-concurrence joinmajority majority	438
-didnotparticipate	361
-concurrence	320
-concurrence joinconcurrence joinmajority majority	241
-concurrence joinconcurrence	159
-concurrence joinmajority majority partjoinmajority	119
-dissent joindissent partjoindissent	108
-plurality	106
-concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joinmajority majority partjoinmajority	83
-concurrence concurrencedissent dissent joinmajority majority partjoinmajority	77
-joinmajority majority partjoinmajority	70
-concurrence concurrencedissent dissent	70
-concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent	65
-concurrence joinconcurrence joinmajority majority partjoinmajority	53
-joinplurality plurality	18
-concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joinmajority majority partjoinconcurrence partjoinconcurrencedissent partjoinmajority	18
-concurrence joinconcurrence joinmajority majority partjoinconcurrence	12
-dissent dissentwithoutopinion	12
-joinmajority joinplurality majority plurality	9
-concurrence joinconcurrence partjoinconcurrence	8
-concurrence joinconcurrence joinmajority majority partjoinconcurrence partjoinmajority	7
-concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent partjoinconcurrence partjoinconcurrencedissent	4
-concurrence concurrencewithoutopinion	4
-dissent joindissent joinmajority majority	4
-majority plurality	3
-dissent joindissent joinmajority majority partjoinmajority	3
-dissent joindissent joinmajority majority partjoindissent partjoinmajority	3
-concurrence concurrencedissent dissent joinmajority majority	2
-concurrence dissent joindissent partjoindissent	2
-concurrence concurrencedissent dissent joindissent joinmajority majority partjoindissent partjoinmajority	2
-dissent majority	2
-concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joindissent	1
-concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joinmajority majority	1
-concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joindissent partjoinconcurrence partjoinconcurrencedissent partjoindissent	1
-concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joinmajority majority partjoinconcurrence partjoinconcurrencedissent	1
-concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent majority	1
-dissent joinmajority majority partjoinmajority	1
-concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joindissent joinmajority majority partjoinconcurrence partjoinconcurrencedissent	1
-concurrence concurrencedissent dissent joindissent joinmajority majority	1
-concurrence concurrencedissent dissent joinconcurrence joinmajority majority partjoinconcurrence partjoinmajority	1
-concurrence joinconcurrence joinplurality partjoinconcurrence partjoinplurality plurality	1
-concurrence dissent joinconcurrence partjoinconcurrence	1
-concurrence joinplurality plurality	1
-concurrence dissent joinconcurrence joindissent partjoinconcurrence	1
-concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joindissent partjoinconcurrence partjoinconcurrencedissent	1
-concurrence dissent joinconcurrence joindissent partjoinconcurrence partjoindissent	1
-concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joindissent joinmajority majority partjoinconcurrence partjoinconcurrencedissent partjoinmajority	1
-concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joindissent joinmajority majority partjoinmajority	1
-dissent joindissent joinmajority majority partjoindissent	1
-dissent joinmajority majority	1
-concurrence concurrencedissent concurrencedissentwithoutopinion dissent dissentwithoutopinion	1
+joinmajority majority	9090	1
+majority	1330	1
+dissent joindissent	1283	2
+dissent	901	2
+concurrence joinmajority majority	438	1
+didnotparticipate	361	4
+concurrence	320	1
+concurrence joinconcurrence joinmajority majority	241	1
+concurrence joinconcurrence	159	1
+concurrence joinmajority majority partjoinmajority	119	1
+dissent joindissent partjoindissent	108	2
+plurality	106	1
+concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joinmajority majority partjoinmajority	83	3
+concurrence concurrencedissent dissent joinmajority majority partjoinmajority	77	3
+joinmajority majority partjoinmajority	70	1
+concurrence concurrencedissent dissent	70	3
+concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent	65	3
+concurrence joinconcurrence joinmajority majority partjoinmajority	53	1
+joinplurality plurality	18	1
+concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joinmajority majority partjoinconcurrence partjoinconcurrencedissent partjoinmajority	18	3
+concurrence joinconcurrence joinmajority majority partjoinconcurrence	12	1
+dissent dissentwithoutopinion	12	2
+joinmajority joinplurality majority plurality	9	1
+concurrence joinconcurrence partjoinconcurrence	8	1
+concurrence joinconcurrence joinmajority majority partjoinconcurrence partjoinmajority	7	1
+concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent partjoinconcurrence partjoinconcurrencedissent	4	3
+concurrence concurrencewithoutopinion	4	1
+dissent joindissent joinmajority majority	4	3
+majority plurality	3	1
+dissent joindissent joinmajority majority partjoinmajority	3	3
+dissent joindissent joinmajority majority partjoindissent partjoinmajority	3	3
+concurrence concurrencedissent dissent joinmajority majority	2	3
+concurrence dissent joindissent partjoindissent	2	2
+concurrence concurrencedissent dissent joindissent joinmajority majority partjoindissent partjoinmajority	2	3
+dissent majority	2	3
+concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joindissent	1	3
+concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joinmajority majority	1	3
+concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joindissent partjoinconcurrence partjoinconcurrencedissent partjoindissent	1	3
+concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joinmajority majority partjoinconcurrence partjoinconcurrencedissent	1	3
+concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent majority	1	3
+dissent joinmajority majority partjoinmajority	1	3
+concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joindissent joinmajority majority partjoinconcurrence partjoinconcurrencedissent	1	3
+concurrence concurrencedissent dissent joindissent joinmajority majority	1	3
+concurrence concurrencedissent dissent joinconcurrence joinmajority majority partjoinconcurrence partjoinmajority	1	3
+concurrence joinconcurrence joinplurality partjoinconcurrence partjoinplurality plurality	1	3
+concurrence dissent joinconcurrence partjoinconcurrence	1	3
+concurrence joinplurality plurality	1	1
+concurrence dissent joinconcurrence joindissent partjoinconcurrence	1	3
+concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joindissent partjoinconcurrence partjoinconcurrencedissent	1	3
+concurrence dissent joinconcurrence joindissent partjoinconcurrence partjoindissent	1	3
+concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joindissent joinmajority majority partjoinconcurrence partjoinconcurrencedissent partjoinmajority	1	3
+concurrence concurrencedissent dissent joinconcurrence joinconcurrencedissent joindissent joinmajority majority partjoinmajority	1	3
+dissent joindissent joinmajority majority partjoindissent	1	3
+dissent joinmajority majority	1	3
+concurrence concurrencedissent concurrencedissentwithoutopinion dissent dissentwithoutopinion	1	3

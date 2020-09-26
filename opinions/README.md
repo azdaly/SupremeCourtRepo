@@ -40,7 +40,7 @@ D - Unclear, requires other explanation:
 Due to the Supreme Court allowing for the jurors to agree with or dissent to parts
 of the case, ./full_opinion_list.txt has all of the combinations found in
 ./parsed_wiki_data, and the value assigned to each. This adhered to the following
-rule: the presence of A OR B resulted in 1 or 2. The presence of both ((A AND B) or D)
+rule: the presence of A OR B resulted in 1 or 2, respectively. The presence of both ((A AND B) or D)
 resulted ambiguous (3), and the presence of C meant did not rule (4).
 
 Additional stats can be found in ./additional_stats.  
