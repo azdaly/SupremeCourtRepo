@@ -45,4 +45,6 @@ resulted ambiguous (3), and the presence of C meant did not rule (4).
 
 Additional stats can be found in ./additional_stats.  
 
- ## Before 1999
+ ## Before 1999  
+ 
+ Supreme Court opinion data before 1999 can be found [here](https://caselaw.findlaw.com/court/us-supreme-court/years)
